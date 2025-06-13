@@ -18,6 +18,8 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**  [[Paper]](https://www.arxiv.org/abs/2506.07905) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
+- **DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO**  [[Paper]](https://arxiv.org/abs/2506.07464) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
+
 - **Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2506.04207) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
 - **SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis**  [[Paper]](https://arxiv.org/abs/2506.02096) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
@@ -63,6 +65,8 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 - **Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning**  [[Paper]](https://arxiv.org/abs/2504.16656) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
 - **NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**  [[Paper]](https://arxiv.org/abs/2504.13055) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
+
+- **TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning**  [[Paper]](https://arxiv.org/abs/2504.09641) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
 - **VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2504.08837) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 

@@ -24,6 +24,12 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2506.01713) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
+- **MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.24871) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- **VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL**  [[Paper]](https://arxiv.org/abs/2505.23977) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Puzzle-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**  [[Paper]](https://arxiv.org/abs/2505.22453) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
 - **Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2505.24164) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **One RL to See Them All: Visual Triple Unified Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.18129) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
@@ -31,6 +37,8 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 - **SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**  [[Paper]](https://arxiv.org/abs/2505.17018) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.16854) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue) ![](https://img.shields.io/badge/Method-Efficient_Reasoning-blue)
+
+- **R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO**  [[Paper]](https://arxiv.org/abs/2505.16673) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
 - **G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.13426) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Game-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
@@ -42,11 +50,21 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**  [[Paper]](https://arxiv.org/abs/2504.07934) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Filtering-blue)
 
+- **VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**  [[Paper]](https://arxiv.org/abs/2504.07615) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Grounding-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
 - **Rethinking RL Scaling for Vision Language Models: A Transparent, From-Scratch Framework and Comprehensive Evaluation Scheme**  [[Paper]](https://arxiv.org/abs/2504.02587) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
 - **Improved Visual-Spatial Reasoning via R1-Zero-Like Training**  [[Paper]](https://arxiv.org/abs/2504.00883) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **MM-Eureka: Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2503.07365) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
+- **Video-R1: Reinforcing Video Reasoning in MLLMs**  [[Paper]](https://arxiv.org/abs/2503.21776) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- **R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**  [[Paper]](https://arxiv.org/abs/2503.12937) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
+- **R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**  [[Paper]](https://arxiv.org/abs/2503.10615) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- **MM-Eureka: Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2503.07365) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
+
+- **Visual-RFT: Visual Reinforcement Fine-Tuning**  [[Paper]](https://arxiv.org/abs/2503.01785) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Perception-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 
 ### 🔀 Think with Interleaved-Modal
@@ -75,3 +93,20 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🔀 Modal-Interleaved Reasoning
 
+## 🗂️ Survey
+
+- **Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2505.18536) ![](https://img.shields.io/badge/May-2025-red)
+
+- **Perception, Reason, Think, and Plan: A Survey on Large Multimodal Reasoning Models**  [[Paper]](https://arxiv.org/abs/2505.04921) ![](https://img.shields.io/badge/May-2025-red)
+
+- **Reinforced MLLM: A Survey on RL-Based Reasoning in Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2504.21277) ![](https://img.shields.io/badge/Apr-2025-red)
+
+- **Mind with Eyes: from Language Reasoning to Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2503.18071) ![](https://img.shields.io/badge/Mar-2025-red)
+
+- **Multimodal Chain-of-Thought Reasoning: A Comprehensive Survey**  [[Paper]](https://arxiv.org/abs/2503.12605) ![](https://img.shields.io/badge/Mar-2025-red)
+
+- **Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.09567) ![](https://img.shields.io/badge/Mar-2025-red)
+
+- **From System 1 to System 2: A Survey of Reasoning Large Language Models**  [[Paper]](https://arxiv.org/abs/2502.17419) ![](https://img.shields.io/badge/Feb-2025-red)
+
+- **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2411.15296) ![](https://img.shields.io/badge/Nov-2024-red)

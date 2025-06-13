@@ -84,7 +84,11 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **Improved Visual-Spatial Reasoning via R1-Zero-Like Training**  [[Paper]](https://arxiv.org/abs/2504.00883) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
+- **Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**  [[Paper]](https://arxiv.org/abs/2503.24376) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
+
 - **Video-R1: Reinforcing Video Reasoning in MLLMs**  [[Paper]](https://arxiv.org/abs/2503.21776) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- **Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**  [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Perception-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**  [[Paper]](https://arxiv.org/abs/2503.12937) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 

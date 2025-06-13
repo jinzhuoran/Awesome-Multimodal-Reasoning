@@ -117,6 +117,13 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🧠 General Reasoning
 
+- **MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.13444) [[Dataset]](https://huggingface.co/datasets/lytang/ChartMuseum) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**  [[Paper]](https://arxiv.org/abs/2311.16502) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU) ![](https://img.shields.io/badge/Nov-2023-red) 
+
+
 ### ➗ Mathematical Reasoning
 
 ### 🔬 Scientific Reasoning

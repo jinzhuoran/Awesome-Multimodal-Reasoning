@@ -147,6 +147,55 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🔀 Think with Interleaved-Modal
 
+#### Think with Images
+
+
+- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**  [[Paper]](https://arxiv.org/abs/2303.04671) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**  [[Paper]](https://arxiv.org/abs/2303.17580) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**  [[Paper]](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-General_Method-blue) 
+
+- **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**  [[Paper]](https://arxiv.org/abs/2305.18752) ![](https://img.shields.io/badge/May-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
+
+- **Visual Programming: Compositional visual reasoning without training**  [[Paper]](https://arxiv.org/abs/2211.11559) ![](https://img.shields.io/badge/Nov-2022-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **ViperGPT: Visual Inference via Python Execution for Reasoning**  [[Paper]](https://arxiv.org/abs/2303.08128) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**  [[Paper]](https://arxiv.org/abs/2406.09403) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Drawing_Assistance_Task-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**  [[Paper]](https://arxiv.org/abs/2311.05437) ![](https://img.shields.io/badge/Nov-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
+
+- **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**  [[Paper]](https://arxiv.org/abs/2401.10727) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
+
+- **CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning**  [[Paper]](https://arxiv.org/abs/2402.04236) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
+
+- **Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models**  [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Visual_Program_Distillation_Distilling_Tools_and_Programmatic_Reasoning_into_Vision-Language_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
+
+- **V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
+
+- **OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.08617) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) 
+
+- **Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.15966) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) 
+
+- **GRIT: Teaching MLLMs to Think with Images**  [[Paper]](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**  [[Paper]](https://arxiv.org/abs/2505.19255) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-structured_image_understanding-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.14362) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.22019) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**  [[Paper]](https://arxiv.org/abs/2505.18079) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**  [[Paper]](https://arxiv.org/abs/2505.15436) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue)
+
+- **AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**  [[Paper]](https://arxiv.org/pdf/2505.15298) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Autonomous_Driving-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) 
+
+- **Visual Planning: Let's Think Only with Images**  [[Paper]](http://export.arxiv.org/abs/2505.11409) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**  [[Paper]](https://www.arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
+
 ## 🧪 Benchmark
 
 ### 🧠 General Reasoning

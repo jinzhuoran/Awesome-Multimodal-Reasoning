@@ -194,7 +194,51 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **Visual Planning: Let's Think Only with Images**  [[Paper]](http://export.arxiv.org/abs/2505.11409) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
 
-- **MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**  [[Paper]](https://www.arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
+- **MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning**  [[Paper]](https://www.arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- - **TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**  [[Paper]](https://arxiv.org/abs/2412.05479) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) 
+
+- **ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**  [[Paper]](https://arxiv.org/abs/2501.05452) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Structured_Image_Understanding-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
+
+- **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235v1) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) ![](https://img.shields.io/badge/Method-DPO-blue) 
+
+- **VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection**  [[Paper]](https://arxiv.org/abs/2505.20289#:~:text=We%20introduce%20VisTA%2C%20a%20new%20reinforcement%20learning%20framework,from%20a%20diverse%20library%20based%20on%20empirical%20performance.) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **Interleaved-Modal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2411.19488) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Don't Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation**  [[Paper]](https://arxiv.org/abs/2505.18842) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) 
+
+- **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://papers.neurips.cc/paper_files/paper/2024/file/f38cb4cf9a5eaa92b3cfa481832719c6-Paper-Conference.pdf) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) 
+
+- **Grounded Chain-of-Thought for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.12799) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) 
+
+- **VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2505.16192) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **Visual Agentic Reinforcement Fine-Tuning**  [[Paper]](https://arxiv.org/abs/2505.14246v1) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**  [[Paper]](https://arxiv.org/abs/2505.21457) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration**  [[Paper]](https://arxiv.org/abs/2411.16044#:~:text=In%20this%20paper%2C%20we%20propose%20Zoom%20Eye%2C%20a,visual%20nature%20of%20images%20to%20capture%20relevant%20information.) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2403.12966) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-SFT-brightgreen) ![](https://img.shields.io/badge/Method-Visual_QA-blue) 
+
+- **Kam-cot: Knowledge augmented multimodal chain-of-thoughts reasoning**  [[Paper]](https://arxiv.org/abs/2401.12863) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-RAG-blue) 
+
+- **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**  [[Paper]](https://arxiv.org/abs/2412.02025) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Autonomous_Driving-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Perception in Reflection**  [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) 
+
+- **DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding**  [[Paper]](https://arxiv.org/abs/2504.14920) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Spaial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2312.08762) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Image_generation-blue) 
+
+- **Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**  [[Paper]](https://arxiv.org/abs/2412.03548) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Counting-brightgreen) ![](https://img.shields.io/badge/Method-Perception_Tokens-blue) 
+
+- **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**  [[Paper]](https://arxiv.org/abs/2501.07542) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **VideoDeepResearch: Long Video Understanding With Agentic Tool Using**  [[Paper]](https://arxiv.org/abs/XXXX.XXXX) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Grounded Reinforcement Learning for Visual Reasoning**  [[Paper]](https://arxiv.org/abs/2505.23678v1) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method--blue) 
 
 ## 🧪 Benchmark
 

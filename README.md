@@ -12,12 +12,6 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **Sherlock: Self-Correcting Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Correction-blue)
 
-- **Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains** [[Paper]](https://arxiv.org/abs/2504.20199#:~:text=In%20this%20work%2C%20we%20propose%20Focus-Centric%20Visual%20Chain%2C,VLMs%27perception%2C%20comprehension%2C%20and%20reasoning%20abilities%20in%20multi-image%20scenarios.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
-
-
-- **Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
-
-
 ### 🤖 Reinforcement Fine-Tuning
 
 - **Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via Visual Perception Reward**  [[Paper]](https://arxiv.org/abs/2506.07218) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
@@ -120,6 +114,26 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 - **MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
 
 - **ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.13444) [[Dataset]](https://huggingface.co/datasets/lytang/ChartMuseum) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **MIRAGE: A Multi-modal Benchmark for Spatial Perception, Reasoning, and Intelligence**  [[Paper]](https://arxiv.org/abs/2505.10604) [[Dataset]](https://huggingface.co/datasets/Mmoment/Mirage_Multimodal_Benchmark) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation**  [[Paper]](https://arxiv.org/abs/2505.02018) [[Dataset]](https://huggingface.co/datasets/R-Bench/R-Bench) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**  [[Paper]](https://arxiv.org/abs/2504.15279) [[Dataset]](https://huggingface.co/datasets/VisuLogic/VisuLogic) ![](https://img.shields.io/badge/Apr-2025-red) 
+
+- **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2504.05782) [[Dataset]](https://github.com/LanceZPF/MDK12?tab=readme-ov-file#-datasets) ![](https://img.shields.io/badge/Apr-2025-red) 
+
+- **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**  [[Paper]](https://arxiv.org/abs/2502.00698) [[Dataset]](https://huggingface.co/datasets/huanqia/MM-IQ) ![](https://img.shields.io/badge/Feb-2025-red) 
+
+- **Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**  [[Paper]](https://arxiv.org/abs/2501.05444) [[Dataset]](https://huggingface.co/datasets/luckychao/EMMA) ![](https://img.shields.io/badge/Jan-2025-red) 
+
+- **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**  [[Paper]](https://arxiv.org/abs/2410.10563) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench) ![](https://img.shields.io/badge/Oct-2024-red) 
+
+- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red) 
+
+- **CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2401.11944) [[Dataset]](https://huggingface.co/datasets/m-a-p/CMMMU) ![](https://img.shields.io/badge/Jan-2024-red) 
+
+- **SEED-Bench-2: Benchmarking Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2311.17092) [[Dataset]](https://huggingface.co/datasets/AILab-CVC/SEED-Bench-2) ![](https://img.shields.io/badge/Nov-2023-red) 
 
 - **MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI**  [[Paper]](https://arxiv.org/abs/2311.16502) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU) ![](https://img.shields.io/badge/Nov-2023-red) 
 

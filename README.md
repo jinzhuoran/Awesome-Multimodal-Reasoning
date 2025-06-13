@@ -26,11 +26,11 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
   
 + **See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**  [[Paper]](https://arxiv.org/abs/2301.05226) ![](https://img.shields.io/badge/Jan-2023-red) ![](https://img.shields.io/badge/Task-Knowledge-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
   
-+ **A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2403.14972) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Task-Science-brightgreen)![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
++ **A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2403.14972) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
   
-+ **Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**  [[Paper]](https://arxiv.org/abs/2402.03877) ![](https://img.shields.io/badge/Sep-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
++ **Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**  [[Paper]](https://arxiv.org/abs/2402.03877) ![](https://img.shields.io/badge/Sep-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
   
-+ **DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2310.16436) ![](https://img.shields.io/badge/Oct-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen)![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
++ **DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2310.16436) ![](https://img.shields.io/badge/Oct-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
   
 + **Mutli-Step Chain-of-Thought in Geometry Problem Solving**  [[Paper]](https://ieeexplore.ieee.org/document/10800087) ![](https://img.shields.io/badge/Sep-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
   

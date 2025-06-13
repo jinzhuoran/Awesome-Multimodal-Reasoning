@@ -131,6 +131,8 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red) 
 
+- **MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2407.16837) [[Dataset]](https://compbench.github.io/) ![](https://img.shields.io/badge/Jul-2024-red) 
+
 - **CMMMU: A Chinese Massive Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2401.11944) [[Dataset]](https://huggingface.co/datasets/m-a-p/CMMMU) ![](https://img.shields.io/badge/Jan-2024-red) 
 
 - **SEED-Bench-2: Benchmarking Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2311.17092) [[Dataset]](https://huggingface.co/datasets/AILab-CVC/SEED-Bench-2) ![](https://img.shields.io/badge/Nov-2023-red) 

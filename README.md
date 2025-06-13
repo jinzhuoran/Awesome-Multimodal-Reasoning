@@ -10,8 +10,7 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🎓 Supervised Fine-Tuning
 
-- **Sherlock: Self-Correcting Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2505.22651)  
-  ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Correction-blue)
+- **Sherlock: Self-Correcting Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Correction-blue)
 
 ### 🤖 Reinforcement Fine-Tuning
 

@@ -429,6 +429,8 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 + **Multimodal Analogical Reasoning over Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2210.00312) [[Dataset]](https://github.com/zjunlp/MKG_Analogy) ![](https://img.shields.io/badge/Oct-2022-red)
 
++ **RAVEN: A Dataset for Relational and Analogical Visual rEasoNing** [[Paper]](https://arxiv.org/abs/1903.02741) [[Dataset]](http://wellyzhang.github.io/project/raven.html) ![](https://img.shields.io/badge/Mar-2019-red)
+
 ### 🧭 Spatial Reasoning
 
 ### 📊 Chart Reasoning

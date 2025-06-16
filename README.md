@@ -470,6 +470,38 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 🧭 Spatial Reasoning
 
++ **OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models** [[Paper]](https://arxiv.org/abs/2506.03135) [[Dataset]](https://huggingface.co/datasets/qizekun/OmniSpatial) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps** [[Paper]](https://arxiv.org/abs/2505.18675) [[Dataset]](https://huggingface.co/datasets/FSCCS/ReasonMap) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?** [[Paper]](https://arxiv.org/abs/2503.19990) [[Dataset]](https://huggingface.co/datasets/KexianTang/LEGO-Puzzles) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **Spatial457: A Diagnostic Benchmark for 6D Spatial Reasoning of Large Multimodal Models** [[Paper]](https://arxiv.org/abs/2502.08636) [[Dataset]](https://huggingface.co/datasets/RyanWW/Spatial457) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?** [[Paper]](https://arxiv.org/abs/2503.23765) [[Dataset]](https://huggingface.co/datasets/MINT-SJTU/STI-Bench) ![](https://img.shields.io/badge/May-2025-red)
+
++ **MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence** [[Paper]](https://arxiv.org/abs/2505.23764) [[Dataset]](https://huggingface.co/datasets/RunsenXu/MMSI-Bench) ![](https://img.shields.io/badge/May-2025-red)
+
++ **Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models** [[Paper]](https://arxiv.org/abs/2505.17015) [[Dataset]](https://github.com/facebookresearch/Multi-SpatialMLLM?tab=readme-ov-file) ![](https://img.shields.io/badge/May-2025-red)
+
++ **3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark** [[Paper]](https://arxiv.org/abs/2412.07825) [[Dataset]](https://huggingface.co/datasets/ccvl/3DSRBench) ![](https://img.shields.io/badge/May-2025-red)
+
++ **V-STaR : Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning** [[Paper]](https://arxiv.org/abs/2503.11495) [[Dataset]](https://huggingface.co/datasets/V-STaR-Bench/V-STaR) ![](https://img.shields.io/badge/Mar-2025-red)
+
++ **Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces** [[Paper]](https://arxiv.org/abs/2412.14171) [[Dataset]](https://huggingface.co/datasets/nyu-visionx/VSI-Bench) ![](https://img.shields.io/badge/Dec-2024-red)
+
++ **Towards Foundation Models for 3D Vision: How Close Are We?** [[Paper]](https://arxiv.org/pdf/2410.10799) [[Dataset]](https://github.com/princeton-vl/UniQA-3D) ![](https://img.shields.io/badge/Dec-2024-red)
+
++ **Multi-modal Situated Reasoning in 3D Scenes** [[Paper]](https://arxiv.org/abs/2409.02389) [[Dataset]](https://msr3d.github.io/) ![](https://img.shields.io/badge/Nov-2024-red)
+
++ **SpatialRGPT: Grounded Spatial Reasoning in Vision Language Model** [[Paper]](https://arxiv.org/abs/2406.01584) [[Dataset]](https://huggingface.co/datasets/a8cheng/OpenSpatialDataset) ![](https://img.shields.io/badge/Oct-2024-red)
+
++ **V ∗ : Guided Visual Search as a Core Mechanism in Multimodal LLMs** [[Paper]](https://arxiv.org/abs/2312.14135) [[Dataset]](https://huggingface.co/datasets/craigwu/vstar_bench) ![](https://img.shields.io/badge/Dec-2023-red)
+
++ **What's "up" with vision-language models? Investigating their struggle with spatial reasoning** [[Paper]](https://arxiv.org/abs/2310.19785) [[Dataset]](https://github.com/amitakamath/whatsup_vlms) ![](https://img.shields.io/badge/Oct-2023-red)
+
++ **Are deep neural networks SMARTer than second graders?** [[Paper]](https://arxiv.org/abs/2212.09993) [[Dataset]](https://smartdataset.github.io/smart101/) ![](https://img.shields.io/badge/Sep-2023-red)
+
 ### 📊 Chart Reasoning
 
 ### 🖼️ Multi-Image Reasoning

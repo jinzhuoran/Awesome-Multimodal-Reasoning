@@ -80,9 +80,11 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🎓 Supervised Fine-Tuning
 
+- **Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning** [[Paper]](https://arxiv.org/abs/2506.00318) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
 - **VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
-- **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning** [[Paper]](http://export.arxiv.org/abs/2505.16421) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Web-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
+[//]: # (- **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning** [[Paper]]&#40;http://export.arxiv.org/abs/2505.16421&#41; ![]&#40;https://img.shields.io/badge/May-2025-red&#41; ![]&#40;https://img.shields.io/badge/Task-Web-brightgreen&#41; ![]&#40;https://img.shields.io/badge/Method-RFT-blue&#41;)
 
 - **UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.14231) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
 
@@ -90,7 +92,7 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains** [[Paper]](https://arxiv.org/abs/2504.20199#:~:text=In%20this%20work%2C%20we%20propose%20Focus-Centric%20Visual%20Chain%2C,VLMs%27perception%2C%20comprehension%2C%20and%20reasoning%20abilities%20in%20multi-image%20scenarios.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** [[Paper]](https://arxiv.org/abs/2404.14604) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Pre_train-blue)
+- **Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization** [[Paper]](https://arxiv.org/abs/2504.18397) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue)
 
 - **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement** [[Paper]](https://arxiv.org/abs/2504.20199#:~:text=In%20this%20work%2C%20we%20propose%20Focus-Centric%20Visual%20Chain%2C,VLMs%27perception%2C%20comprehension%2C%20and%20reasoning%20abilities%20in%20multi-image%20scenarios.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
@@ -116,6 +118,8 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **Geo-LLaVA: A Large Multi-Modal Model for Solving Geometry Math Problems with Meta In-Context Learning** [[Paper]](https://arxiv.org/abs/2412.10455#:~:text=Additionally%2C%20we%20propose%20a%20Large%20Multi-modal%20Model%20%28LMM%29,in-context%20learning%20%28ICL%29%20during%20inference%20to%20improve%20performance.) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-In_Context_Learning-blue)
 
+- **Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2411.14432) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Multi_Agent-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
+
 - **AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning** [[Paper]](https://arxiv.org/abs/2411.11930) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-PRM-blue)
 
 - **Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization** [[Paper]](https://arxiv.org/abs/2411.10442) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue)
@@ -136,7 +140,9 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis** [[Paper]](https://arxiv.org/abs/2406.19934) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Video-of thought: Step-by-step video reasoning from perception to cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
+- **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** [[Paper]](https://arxiv.org/abs/2404.14604) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
 
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2309.04461) ![](https://img.shields.io/badge/Sep-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Chain_of_Thought-blue)
 
@@ -357,9 +363,7 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**  [[Paper]](https://arxiv.org/abs/2410.10563) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench) ![](https://img.shields.io/badge/Oct-2024-red) 
 
-- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red)
-
-- **GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation** [[Paper]](https://arxiv.org/abs/2402.15745) [[Dataset]](https://github.com/OpenMOSS/GAOKAO-MM) ![](https://img.shields.io/badge/Aug-2024-red) 
+- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red) 
 
 - **MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2407.16837) [[Dataset]](https://compbench.github.io/) ![](https://img.shields.io/badge/Jul-2024-red) 
 
@@ -373,21 +377,6 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 ### ➗ Mathematical Reasoning
 
 ### 🔬 Scientific Reasoning
-
-- **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red)
-
-- **SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**  [[Paper]](https://arxiv.org/abs/2407.09413) [[Dataset]](https://huggingface.co/datasets/google/spiqa) ![](https://img.shields.io/badge/Jan-2025-red)
-
-- **OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2402.14008) [[Dataset]](https://huggingface.co/datasets/Hothan/OlympiadBench) ![](https://img.shields.io/badge/Jun-2024-red)
-
-- **Scemqa: A scientific college entrance level multimodal question answering benchmark**  [[Paper]](https://arxiv.org/abs/2402.05138) [[Dataset]](https://github.com/SceMQA/SceMQA) ![](https://img.shields.io/badge/Feb-2024-red)
-
-- **SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark**  [[Paper]](https://arxiv.org/abs/2402.05138) [[Dataset]](https://huggingface.co/datasets/Haozy/SceMQA-main/tree/main) ![](https://img.shields.io/badge/Feb-2024-red)
-
-- **SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs**  [[Paper]](https://arxiv.org/abs/2308.03349) [[Dataset]](https://huggingface.co/datasets/alexshengzhili/SciCapInstructed-graph-only-qa) ![](https://img.shields.io/badge/Aug-2023-red)
-
-- **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**  [[Paper]](https://arxiv.org/abs/2209.09513) [[Dataset]](https://scienceqa.github.io/) ![](https://img.shields.io/badge/Oct-2022-red)
-  
 
 ### 🧩 Logical Reasoning
 

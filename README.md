@@ -594,6 +594,15 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 🔀 Modal-Interleaved Reasoning
 
+### Reward Modeling
+
++ **VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models** [[Paper]](https://arxiv.org/abs/2503.07478) ![](https://img.shields.io/badge/Mar-2025-red) 
+
++ **Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models** [[Paper]](https://arxiv.org/abs/2502.14191) ![](https://img.shields.io/badge/Feb-2025-red) 
+
++ **MM-RLHF: The Next Step Forward in Multimodal LLM Alignment** [[Paper]](https://arxiv.org/abs/2502.10391) ![](https://img.shields.io/badge/Feb-2025-red)  
+
+
 ## 🗂️ Survey
 
 - **Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2505.18536) ![](https://img.shields.io/badge/May-2025-red)

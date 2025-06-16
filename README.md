@@ -419,7 +419,9 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 + **MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning** [[Paper]](https://arxiv.org/abs/2404.13591) [[Dataset]](https://huggingface.co/datasets/kianasun/MARVEL) ![](https://img.shields.io/badge/Apr-2024-red)
 
-+ **Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2403.03864) [[Dataset]](https://github.com/declare-lab/LLM-PuzzleTest) ![](https://img.shields.io/badge/Mar-2024-red)
++ **PuzzleVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Abstract Visual Patterns** [[Paper]](https://arxiv.org/abs/2403.13315) [[Dataset]](https://huggingface.co/datasets/declare-lab/puzzlevqa) ![](https://img.shields.io/badge/Mar-2024-red)
+
++ **AlgoPuzzleVQA: Diagnosing Multimodal Reasoning Challenges of Language Models with Algorithmic Multimodal Puzzles** [[Paper]](https://aclanthology.org/2025.naacl-long.486/) [[Dataset]](https://github.com/declare-lab/LLM-PuzzleTest) ![](https://img.shields.io/badge/Mar-2024-red)
 
 + **Are deep neural networks SMARTer than second graders?** [[Paper]](https://arxiv.org/abs/2212.09993) [[Dataset]](https://smartdataset.github.io/smart101/) ![](https://img.shields.io/badge/Sep-2023-red)
 

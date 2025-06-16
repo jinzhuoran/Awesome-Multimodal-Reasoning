@@ -47,6 +47,15 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🎯 Reward-Guided Inference
 
+
+#### Reward Model
+
++ **Atomthink: A slow thinking framework for multimodal mathematical reasoning** [[Paper]](https://arxiv.org/abs/2411.11930) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
+
+
+#### Search Strategy
+
 + **VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism** [[Paper]](https://arxiv.org/abs/2506.08691) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
 
 

@@ -220,11 +220,16 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **MM-Eureka: Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2503.07365) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
+- **Boosting the Generalization and Reasoning of Vision Language Models with Curriculum Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2503.07065) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
+
 - **R1-Omni: Explainable Omni-Multimodal Emotion Recognition with Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2503.05379) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Omni-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
 - **R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**  [[Paper]](https://arxiv.org/abs/2503.05132) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
 - **Visual-RFT: Visual Reinforcement Fine-Tuning**  [[Paper]](https://arxiv.org/abs/2503.01785) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Perception-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
+- **URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**  [[Paper]](https://arxiv.org/abs/2501.04686) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
 
 
 ### 🔀 Think with Interleaved-Modal

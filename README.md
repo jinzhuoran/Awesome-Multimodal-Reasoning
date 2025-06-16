@@ -250,7 +250,7 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**  [[Paper]](https://arxiv.org/abs/2311.05437) ![](https://img.shields.io/badge/Nov-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
-- **V/*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+- **V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2312.08762) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Image_generation-blue) 
 

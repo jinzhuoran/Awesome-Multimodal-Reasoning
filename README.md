@@ -47,6 +47,33 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🎯 Reward-Guided Inference
 
+<<<<<<< HEAD
+=======
+
+#### Reward Model
+
++ **MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision** [[Paper]](https://arxiv.org/abs/2505.13427) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)    ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
++ **Athena: Enhancing Multimodal Reasoning with Data-efficient Process Reward Models** [[Paper]](https://arxiv.org/abs/2506.09532) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen)     ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
++ **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.02835) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-Genral-brightgreen)  ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
++ **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2503.10291) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
++ **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search** [[Paper]](https://arxiv.org/abs/2504.10222) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Logic-brightgreen)  ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen)    ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
++ **VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models** [[Paper]](https://arxiv.org/abs/2503.07478) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
++ **MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought
+Verification** [[Paper]](https://arxiv.org/abs/2502.13383) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
++ **Progressive Multimodal Reasoning via Active Retrieval** [[Paper]](https://arxiv.org/abs/2412.14835) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
++ **Atomthink: A slow thinking framework for multimodal mathematical reasoning** [[Paper]](https://arxiv.org/abs/2411.11930) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
+#### Search Strategy
+
+>>>>>>> c743685962151cbcd09ee0ed32c91b32d2d3d1e4
 + **VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism** [[Paper]](https://arxiv.org/abs/2506.08691) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
 
 + **Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions** [[Paper]](https://arxiv.org/abs/2502.02339) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
@@ -359,7 +386,9 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**  [[Paper]](https://arxiv.org/abs/2410.10563) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench) ![](https://img.shields.io/badge/Oct-2024-red) 
 
-- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red) 
+- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red)
+
+- **GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation** [[Paper]](https://arxiv.org/abs/2402.15745) [[Dataset]](https://github.com/OpenMOSS/GAOKAO-MM) ![](https://img.shields.io/badge/Aug-2024-red) 
 
 - **MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2407.16837) [[Dataset]](https://compbench.github.io/) ![](https://img.shields.io/badge/Jul-2024-red) 
 
@@ -379,6 +408,20 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 ### ➗ Mathematical Reasoning
 
 ### 🔬 Scientific Reasoning
+
+- **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**  [[Paper]](https://arxiv.org/abs/2209.09513) [[Dataset]](https://scienceqa.github.io/) ![](https://img.shields.io/badge/Oct-2022-red) 
+
+- **OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2402.14008) [[Dataset]](https://huggingface.co/datasets/Hothan/OlympiadBench) ![](https://img.shields.io/badge/Jun-2024-red) 
+
+- **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red) 
+
+- **Scemqa: A scientific college entrance level multimodal question answering benchmark**  [[Paper]](https://arxiv.org/abs/2402.05138) [[Dataset]](https://github.com/SceMQA/SceMQA) ![](https://img.shields.io/badge/Feb-2024-red)
+
+- **SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs**  [[Paper]](https://arxiv.org/abs/2308.03349) [[Dataset]](https://huggingface.co/datasets/alexshengzhili/SciCapInstructed-graph-only-qa) ![](https://img.shields.io/badge/Aug-2023-red)
+
+- **SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark**  [[Paper]](https://arxiv.org/abs/2402.05138) [[Dataset]](https://huggingface.co/datasets/Haozy/SceMQA-main/tree/main) ![](https://img.shields.io/badge/Feb-2024-red)
+
+- **SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**  [[Paper]](https://arxiv.org/abs/2407.09413) [[Dataset]](https://huggingface.co/datasets/google/spiqa) ![](https://img.shields.io/badge/Jan-2025-red)
 
 ### 🧩 Logical Reasoning
 

@@ -177,6 +177,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.13426) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Game-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
+- **Seed1.5-VL Technical Report**  [[Paper]](https://arxiv.org/abs/2505.07062) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen)
+
 - **Unlocking the Potential of Difficulty Prior in RL-based Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2505.13261) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Filtering-blue)
 
 - **VideoRFT: Incentivizing Video Reasoning Capability in MLLMs via Reinforced Fine-Tuning**  [[Paper]](https://arxiv.org/abs/2505.12434) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)

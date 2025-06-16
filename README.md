@@ -112,17 +112,15 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **Improve Vision Language Model Chain-of-thought Reasoning** [[Paper]](https://arxiv.org/abs/2410.16198) ![](https://img.shields.io/badge/Oct-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
 
-- **LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation** [[Paper]](https://arxiv.org/abs/2408.15881#:~:text=We%20introduce%20LLaVA-MoD%2C%20a%20novel%20framework%20designed%20to,%28s-MLLM%29%20by%20distilling%20knowledge%20from%20large-scale%20MLLM%20%28l-MLLM%29.) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Distillation-blue) ![](https://img.shields.io/badge/Method-MOE-blue)
-
-- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2406.17294) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Bootstrapping-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
-
 - **From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis** [[Paper]](https://arxiv.org/abs/2406.19934) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2406.17294) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 - **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** [[Paper]](https://arxiv.org/abs/2404.14604) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
-- **Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
+- **Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
 
-- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2309.04461) ![](https://img.shields.io/badge/Sep-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Chain_of_Thought-blue)
+- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2309.04461) ![](https://img.shields.io/badge/Sep-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **Multimodal Chain-of-Thought Reasoning in Language Models** [[Paper]](https://arxiv.org/abs/2302.00923) ![](https://img.shields.io/badge/Feb-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 

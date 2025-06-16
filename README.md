@@ -47,6 +47,27 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🎯 Reward-Guided Inference
 
+#### Reward Modeling
+
++ **MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision** [[Paper]](https://arxiv.org/abs/2505.13427) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)    ![](https://img.shields.io/badge/Method-PRM-blue)
+
++ **Athena: Enhancing Multimodal Reasoning with Data-efficient Process Reward Models** [[Paper]](https://arxiv.org/abs/2506.09532) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen)     ![](https://img.shields.io/badge/Method-PRM-blue)
+
++ **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.02835) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-Genral-brightgreen)  ![](https://img.shields.io/badge/Method-ORM-blue)
+
++ **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2503.10291) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-PRM-blue)
+
++ **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search** [[Paper]](https://arxiv.org/abs/2504.10222) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Logic-brightgreen)  ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen)    ![](https://img.shields.io/badge/Method-PRM-blue)
+
+
++ **MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought
+Verification** [[Paper]](https://arxiv.org/abs/2502.13383) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-ORM-blue)
+
++ **Progressive Multimodal Reasoning via Active Retrieval** [[Paper]](https://arxiv.org/abs/2412.14835) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-PRM-blue)
+
+
+#### Search Strategy
+
 + **VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism** [[Paper]](https://arxiv.org/abs/2506.08691) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
 
 + **Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions** [[Paper]](https://arxiv.org/abs/2502.02339) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)

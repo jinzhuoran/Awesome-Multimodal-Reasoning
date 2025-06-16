@@ -394,17 +394,23 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**  [[Paper]](https://arxiv.org/abs/2502.00698) [[Dataset]](https://github.com/AceCHQ/MMIQ) ![](https://img.shields.io/badge/Feb-2025-red) 
 
-- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+- **We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?**  [[Paper]](https://arxiv.org/abs/2407.01284) [[Dataset]](https://github.com/We-Math/We-Math) ![](https://img.shields.io/badge/Jul-2024-red) 
 
-- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+- **MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**  [[Paper]](https://arxiv.org/abs/2403.14624) [[Dataset]](https://github.com/ZrrSkywalker/MathVerse) ![](https://img.shields.io/badge/Mar-2024-red) 
 
-- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+- **OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2402.14008) [[Dataset]](https://github.com/OpenBMB/OlympiadBench) ![](https://img.shields.io/badge/Feb-2024-red) 
 
-- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+- **NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2403.01777) [[Dataset]](https://github.com/lizhouf/NPHardEval4V) ![](https://img.shields.io/badge/Mar-2024-red) 
 
-- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+- **MPBench: A Comprehensive Multimodal Reasoning Benchmark for Process Errors Identification**  [[Paper]](https://arxiv.org/abs/2503.12505) [[Dataset]](https://mpbench.github.io/) ![](https://img.shields.io/badge/Mar-2025-red) 
 
-- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+- **MATP-BENCH: Can MLLM Be a Good Automated Theorem Prover for Multimodal Problems?**  [[Paper]](https://arxiv.org/abs/2506.06034) [[Dataset]](https://github.com/Zhitao-He/MATPBench) ![](https://img.shields.io/badge/Jun-2025-red)
+
+- **Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**  [[Paper]](https://arxiv.org/abs/2407.08733#:~:text=To%20this%20end%2C%20we%20introduce%20MathCheck%2C%20a%20well-designed,as%20an%20automatic%20tool%20to%20generate%20checklists%20efficiently.) [[Dataset]](https://github.com/PremiLab-Math/MathCheck) ![](https://img.shields.io/badge/Oct-2024-red)
+
+- **Are Deep Neural Networks SMARTer than Second Graders?**  [[Paper]](https://arxiv.org/abs/2212.09993) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/Dec-2022-red)
+
+- **MMATH: A Multilingual Benchmark for Mathematical Reasoning**  [[Paper]](https://arxiv.org/abs/2505.19126) [[Dataset]](https://github.com/RUCAIBox/MMATH) ![](https://img.shields.io/badge/May-2025-red) 
 
 ### 🔬 Scientific Reasoning
 

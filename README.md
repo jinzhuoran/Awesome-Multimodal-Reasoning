@@ -374,7 +374,55 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 🔬 Scientific Reasoning
 
++ **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red) 
+
+
+
+- **SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**  [[Paper]](https://arxiv.org/abs/2407.09413) [[Dataset]](https://huggingface.co/datasets/google/spiqa) ![](https://img.shields.io/badge/Jan-2025-red)
+
+
+
+- **OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2402.14008) [[Dataset]](https://huggingface.co/datasets/Hothan/OlympiadBench) ![](https://img.shields.io/badge/Jun-2024-red) 
+
+
+
+- **Scemqa: A scientific college entrance level multimodal question answering benchmark**  [[Paper]](https://arxiv.org/abs/2402.05138) [[Dataset]](https://github.com/SceMQA/SceMQA) ![](https://img.shields.io/badge/Feb-2024-red)
+
+
+
+- **SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark**  [[Paper]](https://arxiv.org/abs/2402.05138) [[Dataset]](https://huggingface.co/datasets/Haozy/SceMQA-main/tree/main) ![](https://img.shields.io/badge/Feb-2024-red)
+
+
+
++ **SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs**  [[Paper]](https://arxiv.org/abs/2308.03349) [[Dataset]](https://huggingface.co/datasets/alexshengzhili/SciCapInstructed-graph-only-qa) ![](https://img.shields.io/badge/Aug-2023-red)
+
+  
+
+- **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**  [[Paper]](https://arxiv.org/abs/2209.09513) [[Dataset]](https://scienceqa.github.io/) ![](https://img.shields.io/badge/Oct-2022-red) 
+
 ### 🧩 Logical Reasoning
+
++ **PUZZLEWORLD: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzlehunts** [[Paper]](https://arxiv.org/abs/2506.06211) [[Dataset]](https://huggingface.co/datasets/hzli1202/PuzzleWorld) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs** [[Paper]](https://arxiv.org/abs/2505.21327) [[Dataset]](https://huggingface.co/datasets/U4R/MME-Reasoning) ![](https://img.shields.io/badge/May-2025-red)
+
++ **Reasoning-OCR: Can Large Multimodal Models Solve Complex Logical Reasoning Problems from OCR Cues?** [[Paper]](https://arxiv.org/abs/2505.12766) [[Dataset]](https://github.com/Hxyz-123/ReasoningOCR) ![](https://img.shields.io/badge/May-2025-red)
+
++ **VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models** [[Paper]](https://arxiv.org/abs/2504.15279) [[Dataset]](https://huggingface.co/datasets/VisuLogic/VisuLogic) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge** [[Paper]](https://arxiv.org/abs/2504.10342) [[Dataset]](https://huggingface.co/datasets/neulab/VisualPuzzles) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **LogicVista: Multimodal LLM Logical Reasoning Benchmark in Visual Contexts** [[Paper]](https://arxiv.org/abs/2407.04973) [[Dataset]](https://github.com/Yijia-Xiao/LogicVista) ![](https://img.shields.io/badge/Jul-2024-red)
+
++ **MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning** [[Paper]](https://arxiv.org/abs/2404.13591) [[Dataset]](https://huggingface.co/datasets/kianasun/MARVEL) ![](https://img.shields.io/badge/Apr-2024-red)
+
++ **Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2403.03864) [[Dataset]](https://github.com/declare-lab/LLM-PuzzleTest) ![](https://img.shields.io/badge/Mar-2024-red)
+
++ **Are deep neural networks SMARTer than second graders?** [[Paper]](https://arxiv.org/abs/2212.09993) [[Dataset]](https://smartdataset.github.io/smart101/) ![](https://img.shields.io/badge/Sep-2023-red)
+
++ **Lora: A logical reasoning augmented dataset for visual question answering** [[Paper]](https://openreview.net/forum?id=bW1uwPV3im) [[Dataset]](https://lora-vqa.github.io/) ![](https://img.shields.io/badge/Sep-2023-red)
+
++ **Multimodal Analogical Reasoning over Knowledge Graphs** [[Paper]](https://arxiv.org/abs/2210.00312) [[Dataset]](https://github.com/zjunlp/MKG_Analogy) ![](https://img.shields.io/badge/Oct-2022-red)
 
 ### 🧭 Spatial Reasoning
 

@@ -382,6 +382,30 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### ➗ Mathematical Reasoning
 
+- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2406.17294) [[Dataset]](https://github.com/HZQ950419/Math-LLaVA) ![](https://img.shields.io/badge/Jun-2024-red) 
+
+- **Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset**  [[Paper]](https://arxiv.org/abs/2402.14804) [[Dataset]](https://github.com/mathllm/MATH-V) ![](https://img.shields.io/badge/Feb-2024-red) 
+
+- **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models**  [[Paper]](https://arxiv.org/abs/2411.00836) [[Dataset]](https://github.com/DynaMath/DynaMath) ![](https://img.shields.io/badge/Oct-2024-red) 
+
+- **MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**  [[Paper]](https://arxiv.org/abs/2502.20808) [[Dataset]](https://github.com/eternal8080/MV-MATH) ![](https://img.shields.io/badge/Feb-2025-red) 
+
+- **MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**  [[Paper]](https://arxiv.org/abs/2310.02255) [[Dataset]](https://github.com/lupantech/MathVista) ![](https://img.shields.io/badge/Oct-2023-red) 
+
+- **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**  [[Paper]](https://arxiv.org/abs/2502.00698) [[Dataset]](https://github.com/AceCHQ/MMIQ) ![](https://img.shields.io/badge/Feb-2025-red) 
+
+- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **Math-llava: Bootstrapping mathematical reasoning for multimodal large language models**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
+
 ### 🔬 Scientific Reasoning
 
 + **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red) 

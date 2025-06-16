@@ -357,7 +357,9 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**  [[Paper]](https://arxiv.org/abs/2410.10563) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench) ![](https://img.shields.io/badge/Oct-2024-red) 
 
-- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red) 
+- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red)
+
+- **GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation** [[Paper]](https://arxiv.org/abs/2402.15745) [[Dataset]](https://github.com/OpenMOSS/GAOKAO-MM) ![](https://img.shields.io/badge/Aug-2024-red) 
 
 - **MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2407.16837) [[Dataset]](https://compbench.github.io/) ![](https://img.shields.io/badge/Jul-2024-red) 
 
@@ -371,6 +373,21 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 ### ➗ Mathematical Reasoning
 
 ### 🔬 Scientific Reasoning
+
+- **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red)
+
+- **SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers**  [[Paper]](https://arxiv.org/abs/2407.09413) [[Dataset]](https://huggingface.co/datasets/google/spiqa) ![](https://img.shields.io/badge/Jan-2025-red)
+
+- **OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2402.14008) [[Dataset]](https://huggingface.co/datasets/Hothan/OlympiadBench) ![](https://img.shields.io/badge/Jun-2024-red)
+
+- **Scemqa: A scientific college entrance level multimodal question answering benchmark**  [[Paper]](https://arxiv.org/abs/2402.05138) [[Dataset]](https://github.com/SceMQA/SceMQA) ![](https://img.shields.io/badge/Feb-2024-red)
+
+- **SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark**  [[Paper]](https://arxiv.org/abs/2402.05138) [[Dataset]](https://huggingface.co/datasets/Haozy/SceMQA-main/tree/main) ![](https://img.shields.io/badge/Feb-2024-red)
+
+- **SciGraphQA: A Large-Scale Synthetic Multi-Turn Question-Answering Dataset for Scientific Graphs**  [[Paper]](https://arxiv.org/abs/2308.03349) [[Dataset]](https://huggingface.co/datasets/alexshengzhili/SciCapInstructed-graph-only-qa) ![](https://img.shields.io/badge/Aug-2023-red)
+
+- **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**  [[Paper]](https://arxiv.org/abs/2209.09513) [[Dataset]](https://scienceqa.github.io/) ![](https://img.shields.io/badge/Oct-2022-red)
+  
 
 ### 🧩 Logical Reasoning
 

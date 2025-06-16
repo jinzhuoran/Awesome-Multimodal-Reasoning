@@ -558,6 +558,17 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 🔊 Audio Reasoning
 
++ **MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix** [[Paper]](https://arxiv.org/abs/2505.13032) [[Dataset]](https://huggingface.co/datasets/BoJack/MMAR) ![](https://img.shields.io/badge/May-2025-red)
+
++ **MAVERIX: Multimodal Audio-Visual Evaluation Reasoning IndeX** [[Paper]](https://arxiv.org/abs/2503.21699) [[Dataset]](https://maverix-benchmark.github.io/) ![](https://img.shields.io/badge/Mar-2025-red)
+
++ **AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs** [[Paper]](https://arxiv.org/abs/2501.02135)  ![](https://img.shields.io/badge/Jan-2025-red)
+
++ **MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark** [[Paper]](https://arxiv.org/abs/2410.19168) [[Dataset]](https://github.com/Sakshi113/mmau) ![](https://img.shields.io/badge/Oct-2024-red)
+
++ **MuChoMusic: Evaluating Music Understanding in Multimodal Audio-Language Models** [[Paper]](https://arxiv.org/abs/2408.01337) [[Dataset]](https://zenodo.org/records/12709974) ![](https://img.shields.io/badge/Aug-2024-red)
+
+
 ### 🎨 Text-to-Image Reasoning
 
 ### 🔀 Modal-Interleaved Reasoning

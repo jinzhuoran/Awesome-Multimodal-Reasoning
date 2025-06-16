@@ -82,7 +82,7 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement** [[Paper]](https://arxiv.org/abs/2504.07934) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video_Spatial-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+- **ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2503.06749) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
@@ -96,11 +96,9 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **Diving into Self-Evolving Training for Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2412.17451) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Evolving-blue)
 
-- **Geo-LLaVA: A Large Multi-Modal Model for Solving Geometry Math Problems with Meta In-Context Learning** [[Paper]](https://arxiv.org/abs/2412.10455#:~:text=Additionally%2C%20we%20propose%20a%20Large%20Multi-modal%20Model%20%28LMM%29,in-context%20learning%20%28ICL%29%20during%20inference%20to%20improve%20performance.) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-In_Context_Learning-blue)
+- **Geo-LLaVA: A Large Multi-Modal Model for Solving Geometry Math Problems with Meta In-Context Learning** [[Paper]](https://arxiv.org/abs/2412.10455#:~:text=Additionally%2C%20we%20propose%20a%20Large%20Multi-modal%20Model%20%28LMM%29,in-context%20learning%20%28ICL%29%20during%20inference%20to%20improve%20performance.) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RAG-blue) ![](https://img.shields.io/badge/Method-In_Context_Learning-blue)
 
 - **Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2411.14432) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Multi_Agent-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
-
-- **AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning** [[Paper]](https://arxiv.org/abs/2411.11930) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-PRM-blue)
 
 - **Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization** [[Paper]](https://arxiv.org/abs/2411.10442) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue)
 

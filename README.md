@@ -354,7 +354,9 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 - **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**  [[Paper]](https://arxiv.org/abs/2410.10563) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench) ![](https://img.shields.io/badge/Oct-2024-red) 
 
-- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red) 
+- **MMMU-Pro: A More Robust Multi-discipline Multimodal Understanding Benchmark**  [[Paper]](https://arxiv.org/abs/2409.02813) [[Dataset]](https://huggingface.co/datasets/MMMU/MMMU_Pro) ![](https://img.shields.io/badge/Sep-2024-red)
+
+- **GAOKAO-MM: A Chinese Human-Level Benchmark for Multimodal Models Evaluation** [[Paper]](https://arxiv.org/abs/2402.15745) [[Dataset]](https://github.com/OpenMOSS/GAOKAO-MM) ![](https://img.shields.io/badge/Aug-2024-red) 
 
 - **MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2407.16837) [[Dataset]](https://compbench.github.io/) ![](https://img.shields.io/badge/Jul-2024-red) 
 
@@ -430,6 +432,44 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 ### 📊 Chart Reasoning
 
 ### 🖼️ Multi-Image Reasoning
+
++ **Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark** [[Paper]](https://www.arxiv.org/abs/2506.04280) [[Dataset]](https://huggingface.co/datasets/HarrytheOrange/MMRB) ![](https://img.shields.io/badge/Jun-2025-red)
+
+
+
++ **MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts** [[Paper]](https://arxiv.org/abs/2502.20808) [[Dataset]](https://huggingface.co/datasets/PeijieWang/MV-MATH) ![](https://img.shields.io/badge/May-2025-red)
+
+
+
++ **MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs** [[Paper]](https://arxiv.org/abs/2407.16837) [[Dataset]](https://compbench.github.io/) ![](https://img.shields.io/badge/Jan-2025-red)
+
+
+
++ **MANTIS: Interleaved Multi-Image Instruction Tuning** [[Paper]](https://arxiv.org/abs/2405.01483) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/Mantis-Eval) ![](https://img.shields.io/badge/Nov-2024-red)
+
+
+
++ **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks** [[Paper]](https://arxiv.org/abs/2410.10563) [[Dataset]](https://huggingface.co/datasets/TIGER-Lab/MEGA-Bench) ![](https://img.shields.io/badge/Nov-2024-red)
+
+  
+
++ **MIBench: Evaluating Multimodal Large Language Models over Multiple Images** [[Paper]](https://arxiv.org/abs/2407.15272) [[Dataset]](https://huggingface.co/datasets/StarBottle/MIBench) ![](https://img.shields.io/badge/Oct-2024-red)
+
+
+
++ **MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding** [[Paper]](https://arxiv.org/abs/2406.09411) [[Dataset]](https://huggingface.co/datasets/MUIRBENCH/MUIRBENCH) ![](https://img.shields.io/badge/Jul-2024-red)
+
+
+
++ **Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning** [[Paper]](https://arxiv.org/abs/2406.12742) [[Dataset]](https://huggingface.co/datasets/VLLMs/MIRB) ![](https://img.shields.io/badge/Jun-2024-red)
+
+
+
++ **ReMI: A Dataset for Reasoning with Multiple Images** [[Paper]](https://arxiv.org/abs/2406.09175) [[Dataset]](https://huggingface.co/datasets/mehrankazemi/ReMI) ![](https://img.shields.io/badge/Jun-2024-red) 
+
+
+
++ **SEED-Bench-2: Benchmarking Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2311.17092) [[Dataset]](https://huggingface.co/datasets/AILab-CVC/SEED-Bench-2) ![](https://img.shields.io/badge/Nov-2023-red)
 
 ### 🎥 Video Reasoning
 

@@ -271,7 +271,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2403.12966) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-SFT-brightgreen) ![](https://img.shields.io/badge/Method-Visual_QA-blue) 
 
-- **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**  [[Paper]](https://arxiv.org/abs/2406.09403) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-Drawing_Assistance_Task-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
+- **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**  [[Paper]](https://arxiv.org/abs/2406.09403) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) ![](https://img.shields.io/badge/Method-Code_Generation-blue)
 
 - **ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration**  [[Paper]](https://arxiv.org/abs/2411.16044#:~:text=In%20this%20paper%2C%20we%20propose%20Zoom%20Eye%2C%20a,visual%20nature%20of%20images%20to%20capture%20relevant%20information.) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 

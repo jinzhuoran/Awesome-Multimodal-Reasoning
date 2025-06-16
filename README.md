@@ -6,77 +6,72 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 ### 💡 Prompt-Augmented Inference
 
-+ **Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2405.20834) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen)![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Retrieval_Augmentation-blue)
++ **Inference Retrieval-Augmented Multi-Modal Chain-of-Thoughts Reasoning for Language Models**  [[Paper]](https://ieeexplore.ieee.org/document/10888701) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-ICL_Augmentation-blue)
+
++ **GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs**  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34679) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
 
 + **CUE-M: Contextual Understanding and Enhanced Search with Multimodal Large Language Model**  [[Paper]](https://arxiv.org/abs/2411.12287) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Knowledge-brightgreen)![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Retrieval_Augmentation-blue)
 
-+ **Retrieval-Augmented Multi-Modal Chain-of-Thoughts Reasoning for Large Language Models**  [[Paper]](https://arxiv.org/abs/2312.01714) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-ICL_Augmentation-blue)
 
-+ **Inference Retrieval-Augmented Multi-Modal Chain-of-Thoughts Reasoning for Language Models**  [[Paper]](https://ieeexplore.ieee.org/document/10888701) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-ICL_Augmentation-blue)
++ **PKRD-CoT: A Unified Chain-of-Thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**  [[Paper]](https://arxiv.org/abs/2412.02025) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Autonomous_Driving-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
+
++ **Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination**  [[Paper]](https://arxiv.org/abs/2411.12591) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
+
++ **GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2410.13510) ![](https://img.shields.io/badge/Oct-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
+
++ **Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**  [[Paper]](https://arxiv.org/abs/2402.03877) ![](https://img.shields.io/badge/Sep-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
+
++ **Mutli-Step Chain-of-Thought in Geometry Problem Solving**  [[Paper]](https://ieeexplore.ieee.org/document/10800087) ![](https://img.shields.io/badge/Sep-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
+
++ **A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2403.14972) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
+
++ **Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2405.20834) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen)![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Retrieval_Augmentation-blue)
+
++ **Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**  [[Paper]](https://arxiv.org/abs/2404.16033) ![](https://img.shields.io/badge/Apr-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
 
 + **Compositional Chain-of-Thought Prompting for Large Multimodal Models**  [[Paper]](https://arxiv.org/abs/2311.17076) ![](https://img.shields.io/badge/Apr-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Perception_Augmentation-blue)
 
 + **TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding**  [[Paper]](https://arxiv.org/abs/2404.09797) ![](https://img.shields.io/badge/Apr-2024-red) ![](https://img.shields.io/badge/Task-Scene-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-Perception_Augmentation-blue)
 
-+ **CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**  [[Paper]](https://arxiv.org/abs/2401.02582) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-Logic-brightgreen) ![](https://img.shields.io/badge/Method-Perception_Augmentation-blue)
-  
++ **Retrieval-Augmented Multi-Modal Chain-of-Thoughts Reasoning for Large Language Models**  [[Paper]](https://arxiv.org/abs/2312.01714) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-ICL_Augmentation-blue)
+
 + **Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models**  [[Paper]](https://arxiv.org/abs/2402.12058) ![](https://img.shields.io/badge/Feb-2024-red) ![](https://img.shields.io/badge/Task-Compositional-brightgreen) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-Perception_Augmentation-blue)
-  
-+ **PKRD-CoT: A Unified Chain-of-Thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**  [[Paper]](https://arxiv.org/abs/2412.02025) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Autonomous_Driving-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
-+ **See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**  [[Paper]](https://arxiv.org/abs/2301.05226) ![](https://img.shields.io/badge/Jan-2023-red) ![](https://img.shields.io/badge/Task-Knowledge-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
-+ **A Picture Is Worth a Graph: A Blueprint Debate Paradigm for Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2403.14972) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
-+ **Beyond Lines and Circles: Unveiling the Geometric Reasoning Gap in Large Language Models**  [[Paper]](https://arxiv.org/abs/2402.03877) ![](https://img.shields.io/badge/Sep-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
+
++ **CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**  [[Paper]](https://arxiv.org/abs/2401.02582) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-Logic-brightgreen) ![](https://img.shields.io/badge/Method-Perception_Augmentation-blue)
+
 + **DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2310.16436) ![](https://img.shields.io/badge/Oct-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
-+ **Mutli-Step Chain-of-Thought in Geometry Problem Solving**  [[Paper]](https://ieeexplore.ieee.org/document/10800087) ![](https://img.shields.io/badge/Sep-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
-+ **GNS: Solving Plane Geometry Problems by Neural-Symbolic Reasoning with Multi-Modal LLMs**  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34679) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
-+ **GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2410.13510) ![](https://img.shields.io/badge/Oct-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
-+ **Cantor: Inspiring Multimodal Chain-of-Thought of MLLM**  [[Paper]](https://arxiv.org/abs/2404.16033) ![](https://img.shields.io/badge/Apr-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
-+ **Thinking Before Looking: Improving Multimodal LLM Reasoning via Mitigating Visual Hallucination**  [[Paper]](https://arxiv.org/abs/2411.12591) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
-  
+
 + **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**  [[Paper]](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
+
++ **See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning**  [[Paper]](https://arxiv.org/abs/2301.05226) ![](https://img.shields.io/badge/Jan-2023-red) ![](https://img.shields.io/badge/Task-Knowledge-brightgreen) ![](https://img.shields.io/badge/Method-Reasoning_Structure_Augmentation-blue)
 
 
 ### 🎯 Reward-Guided Inference
 
+
+#### Reward Model
+
++ **Atomthink: A slow thinking framework for multimodal mathematical reasoning** [[Paper]](https://arxiv.org/abs/2411.11930) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Model-blue)
+
+
+
+#### Search Strategy
+
 + **VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism** [[Paper]](https://arxiv.org/abs/2506.08691) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
-
-
 
 + **Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions** [[Paper]](https://arxiv.org/abs/2502.02339) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
 
-
-
++ **CyberV: Cybernetics for Test-time Scaling in Video Understanding** [[Paper]](https://arxiv.org/abs/2506.07971) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
+    
 + **Boosting Multimodal Reasoning with Automated Structured Thinking** [[Paper]](https://arxiv.org/abs/2506.08691) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
-
-
 
 + **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search** [[Paper]](https://arxiv.org/abs/2504.10222) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Task-Logic-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
 
-
-
 + **VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search** [[Paper]](https://arxiv.org/abs/2504.09130) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Spatial-brightgreen)  ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
-
-
 
 + **VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos** [[Paper]](https://arxiv.org/abs/2405.19209) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen)  ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
 
-  
-
 + **Progressive Multimodal Reasoning via Active Retrieval** [[Paper]](https://arxiv.org/pdf/2412.14835) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
-
-
-
-+ **CyberV: Cybernetics for Test-time Scaling in Video Understanding** [[Paper]](https://arxiv.org/abs/2506.07971) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue)
-
 
 ### 🎓 Supervised Fine-Tuning
 

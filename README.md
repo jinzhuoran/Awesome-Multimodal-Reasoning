@@ -416,7 +416,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 🔬 Scientific Reasoning
 
-+ **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red) 
+- **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**  [[Paper]][(https://arxiv.org/abs/2504.05782) [[Dataset]](https://github.com/LanceZPF/MDK12?tab=readme-ov-file#-datasets) ![](https://img.shields.io/badge/Apr-2025-red) 
+
+- **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red) 
 
 - **VisScience: An Extensive Benchmark for Evaluating K12 Educational Multi-modal Scientific Reasoning**  [[Paper]](https://arxiv.org/abs/2409.13730) [[Dataset]](https://github.com/THUDM/VisScience) ![](https://img.shields.io/badge/Sep-2024-red)
 

@@ -494,6 +494,22 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 📊 Chart Reasoning
 
++ **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning** [[Paper]](https://arxiv.org/abs/2402.12185) [[Dataset]](https://huggingface.co/datasets/U4R/ChartX/viewer) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering** [[Paper]](https://arxiv.org/abs/2504.05506) [[Dataset]](https://huggingface.co/datasets/ahmed-masry/ChartQAPro) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems** [[Paper]](https://arxiv.org/abs/2410.14179) [[Dataset]](https://github.com/Zivenzhu/Multi-chart-QA) ![](https://img.shields.io/badge/Feb-2025-red)
+
++ **ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation** [[Paper]](https://arxiv.org/pdf/2406.09961) [[Dataset]](https://huggingface.co/datasets/ChartMimic/ChartMimic) ![](https://img.shields.io/badge/Feb-2025-red)
+
++ **ChartBench: A Benchmark for Complex Visual Reasoning in Charts** [[Paper]](https://arxiv.org/abs/2312.15915) [[Dataset]](https://huggingface.co/datasets/SincereX/ChartBench) ![](https://img.shields.io/badge/Jun-2024-red)
+
++ **CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs** [[Paper]](https://arxiv.org/abs/2406.18521) [[Dataset]](https://huggingface.co/datasets/princeton-nlp/CharXiv) ![](https://img.shields.io/badge/Jun-2024-red)
+
++ **MMC: Advancing Multimodal Chart Understanding with Large-scale Instruction Tuning** [[Paper]](https://arxiv.org/abs/2311.10774) [[Dataset]](https://huggingface.co/datasets/xywang1/MMC) ![](https://img.shields.io/badge/Apr-2024-red)
+
++ **ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning** [[Paper]](https://arxiv.org/abs/2203.10244) [[Dataset]](https://huggingface.co/datasets/ahmed-masry/ChartQA) ![](https://img.shields.io/badge/Mar-2022-red)
+
 ### 🖼️ Multi-Image Reasoning
 
 + **Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark** [[Paper]](https://www.arxiv.org/abs/2506.04280) [[Dataset]](https://huggingface.co/datasets/HarrytheOrange/MMRB) ![](https://img.shields.io/badge/Jun-2025-red)

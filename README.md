@@ -249,7 +249,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**  [[Paper]](https://arxiv.org/abs/2303.17580) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
-- **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**  [[Paper]](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-General_Method-blue)
+- **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**  [[Paper]](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
 
 - **ViperGPT: Visual Inference via Python Execution for Reasoning**  [[Paper]](https://arxiv.org/abs/2303.08128) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 

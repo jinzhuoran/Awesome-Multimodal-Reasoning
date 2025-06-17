@@ -151,6 +151,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 🤖 Reinforcement Fine-Tuning
 
+- **Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning**  [[Paper]](https://arxiv.org/abs/2506.13056) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue) ![](https://img.shields.io/badge/Method-RL&SFT-blue)
+
 - **Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning**  [[Paper]](https://arxiv.org/abs/2506.09736) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
 - **Play to Generalize: Learning to Reason Through Game Play**  [[Paper]](https://arxiv.org/abs/2506.08011) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Game-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
@@ -437,8 +439,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **MMATH: A Multilingual Benchmark for Mathematical Reasoning**  [[Paper]](https://arxiv.org/abs/2505.19126) [[Dataset]](https://github.com/RUCAIBox/MMATH) ![](https://img.shields.io/badge/May-2025-red) 
 
 ### 🔬 Scientific Reasoning
-
-- **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**  [[Paper]][(https://arxiv.org/abs/2504.05782) [[Dataset]](https://github.com/LanceZPF/MDK12?tab=readme-ov-file#-datasets) ![](https://img.shields.io/badge/Apr-2025-red) 
 
 - **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red) 
 

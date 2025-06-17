@@ -75,17 +75,30 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 + **Athena: Enhancing Multimodal Reasoning with Data-efficient Process Reward Models** [[Paper]](https://arxiv.org/abs/2506.09532) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen)     ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
-+ **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.02835) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-Genral-brightgreen)  ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
++ **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.02835) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-General-brightgreen)  ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
 
 + **URSA: Understanding and Verifying Chain-of-Thought Reasoning in MultimodalMathematics** [[Paper]](https://arxiv.org/abs/2501.04686) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
 + **InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model** [[Paper]](https://arxiv.org/abs/2501.12368) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
 
-+ **Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program** [[Paper]](https://arxiv.org/abs/2504.06606) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-Genral-brightgreen)  ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
 + **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2503.10291) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
+- **Unified Multimodal Chain-of-Thought Reward Model through Reinforcement Fine-Tuning** [[Paper]](https://arxiv.org/abs/2505.03318) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen)  ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
+
+- **Skywork-VL Reward: An Effective Reward Model for Multimodal Understanding and Reasoning** [[Paper]](https://arxiv.org/abs/2505.07263) ![](https://img.shields.io/badge/May-2025-red)  ![](https://img.shields.io/badge/Task-General-brightgreen)  ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
+
+- **Generative RLHF‑V: Learning Principles from Multi‑modal Human Preference** [[Paper]](https://arxiv.org/abs/2505.18531) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Outcome_Reward-blue) ![](https://img.shields.io/badge/Method-RL-blue) 
+
+- **MR. Judge: Multimodal Reasoner as a Judge hkust** [[Paper]](https://arxiv.org/abs/2505.13403) ![](https://img.shields.io/badge/May-2025-red)![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Outcome_Reward-blue) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+
++ **Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program** [[Paper]](https://arxiv.org/abs/2504.06606) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-General-brightgreen)  ![](https://img.shields.io/badge/Method-Process_Reward-blue)
+
+
 + **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search** [[Paper]](https://arxiv.org/abs/2504.10222) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Logic-brightgreen)  ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen)    ![](https://img.shields.io/badge/Method-Process_Reward-blue)
+
+- **The devil is in the details: Tackling unimodal spurious correlations for generalizable multimodal reward models** [[Paper]](https://arxiv.org/abs/2503.03122) ![](https://img.shields.io/badge/Mar-2025-red)  ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Outcome_Reward-blue) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 + **MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought
 Verification** [[Paper]](https://arxiv.org/abs/2502.13383) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
@@ -197,7 +210,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Play to Generalize: Learning to Reason Through Game Play**  [[Paper]](https://arxiv.org/abs/2506.08011) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Game-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**  [[Paper]](https://www.arxiv.org/abs/2506.07905) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+- **WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**  [[Paper]](https://www.arxiv.org/abs/2506.07905) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO**  [[Paper]](https://arxiv.org/abs/2506.07464) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
@@ -221,17 +234,17 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models**  [[Paper]](https://arxiv.org/abs/2505.23091) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
-- **Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2505.24164) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+- **Mixed-R1: Unified Reward Perspective For Reasoning Capability in Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2505.24164) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**  [[Paper]](https://arxiv.org/abs/2505.22453) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**  [[Paper]](https://arxiv.org/abs/2505.20256) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Omni-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
-- **One RL to See Them All: Visual Triple Unified Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.18129) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
+- **One RL to See Them All: Visual Triple Unified Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.18129) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
-- **SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**  [[Paper]](https://arxiv.org/abs/2505.17018) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+- **SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward**  [[Paper]](https://arxiv.org/abs/2505.17018) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
-- **Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.16854) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue) ![](https://img.shields.io/badge/Method-Efficient_Reasoning-blue)
+- **Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.16854) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue) ![](https://img.shields.io/badge/Method-Efficient_Reasoning-blue)
 
 - **R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO**  [[Paper]](https://arxiv.org/abs/2505.16673) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 

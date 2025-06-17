@@ -295,30 +295,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 #### Think with Images
 
-- **Visual Programming: Compositional visual reasoning without training**  [[Paper]](https://arxiv.org/abs/2211.11559) ![](https://img.shields.io/badge/Nov-2022-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
-
-- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**  [[Paper]](https://arxiv.org/abs/2303.04671) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
-
-- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**  [[Paper]](https://arxiv.org/abs/2303.17580) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
-
-- **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**  [[Paper]](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
-
-- **ViperGPT: Visual Inference via Python Execution for Reasoning**  [[Paper]](https://arxiv.org/abs/2303.08128) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
-
-- **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**  [[Paper]](https://arxiv.org/abs/2305.18752) ![](https://img.shields.io/badge/May-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
-
-- **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**  [[Paper]](https://arxiv.org/abs/2311.05437) ![](https://img.shields.io/badge/Nov-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
-
-- **V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
-
-- **Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2312.08762) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Image_Generation-blue) 
-
-- **Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models**  [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Visual_Program_Distillation_Distilling_Tools_and_Programmatic_Reasoning_into_Vision-Language_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
-
-- **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**  [[Paper]](https://arxiv.org/abs/2401.10727) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
-
-- **Kam-cot: Knowledge augmented multimodal chain-of-thoughts reasoning**  [[Paper]](https://arxiv.org/abs/2401.12863) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-RAG-blue) 
-
 - **CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning**  [[Paper]](https://arxiv.org/abs/2402.04236) ![](https://img.shields.io/badge/Feb-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2403.12966) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-SFT-brightgreen) ![](https://img.shields.io/badge/Method-Visual_QA-blue) 
@@ -383,7 +359,31 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235v1) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-DPO-blue) 
 
-- **VideoDeepResearch: Long Video Understanding With Agentic Tool Using**  [[Paper]](https://arxiv.org/pdf/2506.10821) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+- **VideoDeepResearch: Long Video Understanding With Agentic Tool Using**  [[Paper]](https://arxiv.org/pdf/2506.10821) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
+
+- **Kam-cot: Knowledge augmented multimodal chain-of-thoughts reasoning**  [[Paper]](https://arxiv.org/abs/2401.12863) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-RAG-blue) 
+
+- **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**  [[Paper]](https://arxiv.org/abs/2401.10727) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2312.08762) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Image_Generation-blue) 
+
+- **Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models**  [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Visual_Program_Distillation_Distilling_Tools_and_Programmatic_Reasoning_into_Vision-Language_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
+
+- **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**  [[Paper]](https://arxiv.org/abs/2311.05437) ![](https://img.shields.io/badge/Nov-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**  [[Paper]](https://arxiv.org/abs/2305.18752) ![](https://img.shields.io/badge/May-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**  [[Paper]](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
+
+- **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**  [[Paper]](https://arxiv.org/abs/2303.17580) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
+
+- **ViperGPT: Visual Inference via Python Execution for Reasoning**  [[Paper]](https://arxiv.org/abs/2303.08128) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**  [[Paper]](https://arxiv.org/abs/2303.04671) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Visual Programming: Compositional visual reasoning without training**  [[Paper]](https://arxiv.org/abs/2211.11559) ![](https://img.shields.io/badge/Nov-2022-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
 
 #### Image Generation with CoT
@@ -434,37 +434,38 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### ➗ Mathematical Reasoning
 
-- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2406.17294) [[Dataset]](https://github.com/HZQ950419/Math-LLaVA) ![](https://img.shields.io/badge/Jun-2024-red) 
+- **MATP-BENCH: Can MLLM Be a Good Automated Theorem Prover for Multimodal Problems?**  [[Paper]](https://arxiv.org/abs/2506.06034) [[Dataset]](https://github.com/Zhitao-He/MATPBench) ![](https://img.shields.io/badge/Jun-2025-red)
 
-- **Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset**  [[Paper]](https://arxiv.org/abs/2402.14804) [[Dataset]](https://github.com/mathllm/MATH-V) ![](https://img.shields.io/badge/Feb-2024-red) 
+- **MMATH: A Multilingual Benchmark for Mathematical Reasoning**  [[Paper]](https://arxiv.org/abs/2505.19126) [[Dataset]](https://github.com/RUCAIBox/MMATH) ![](https://img.shields.io/badge/May-2025-red) 
 
-- **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models**  [[Paper]](https://arxiv.org/abs/2411.00836) [[Dataset]](https://github.com/DynaMath/DynaMath) ![](https://img.shields.io/badge/Oct-2024-red) 
-
-- **MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**  [[Paper]](https://arxiv.org/abs/2502.20808) [[Dataset]](https://github.com/eternal8080/MV-MATH) ![](https://img.shields.io/badge/Feb-2025-red) 
-
-- **MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**  [[Paper]](https://arxiv.org/abs/2310.02255) [[Dataset]](https://github.com/lupantech/MathVista) ![](https://img.shields.io/badge/Oct-2023-red) 
+- **MPBench: A Comprehensive Multimodal Reasoning Benchmark for Process Errors Identification**  [[Paper]](https://arxiv.org/abs/2503.12505) [[Dataset]](https://mpbench.github.io/) ![](https://img.shields.io/badge/Mar-2025-red) 
+ 
+- **MV-MATH: Evaluating Multimodal Math Reasoning in Multi-Visual Contexts**  [[Paper]](https://arxiv.org/abs/2502.20808) [[Dataset]](https://github.com/eternal8080/MV-MATH) ![](https://img.shields.io/badge/Feb-2025-red)
 
 - **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**  [[Paper]](https://arxiv.org/abs/2502.00698) [[Dataset]](https://github.com/AceCHQ/MMIQ) ![](https://img.shields.io/badge/Feb-2025-red) 
 
+- **DynaMath: A Dynamic Visual Benchmark for Evaluating Mathematical Reasoning Robustness of Vision Language Models**  [[Paper]](https://arxiv.org/abs/2411.00836) [[Dataset]](https://github.com/DynaMath/DynaMath) ![](https://img.shields.io/badge/Oct-2024-red)
+
+- **Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**  [[Paper]](https://arxiv.org/abs/2407.08733) [[Dataset]](https://github.com/PremiLab-Math/MathCheck) ![](https://img.shields.io/badge/Oct-2024-red)
+
 - **We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?**  [[Paper]](https://arxiv.org/abs/2407.01284) [[Dataset]](https://github.com/We-Math/We-Math) ![](https://img.shields.io/badge/Jul-2024-red) 
+
+- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2406.17294) [[Dataset]](https://github.com/HZQ950419/Math-LLaVA) ![](https://img.shields.io/badge/Jun-2024-red)
 
 - **MM-MATH: Advancing Multimodal Math Evaluation with Process Evaluation and Fine-grained Classification**  [[Paper]](https://arxiv.org/abs/2404.05091) [[Dataset]](https://github.com/ZrrSkywalker/MathVerse) ![](https://img.shields.io/badge/Apr-2024-red) 
 
-- **MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**  [[Paper]](https://arxiv.org/abs/2403.14624) [[Dataset]](https://github.com/ZrrSkywalker/MathVerse) ![](https://img.shields.io/badge/Mar-2024-red) 
-
-- **OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2402.14008) [[Dataset]](https://github.com/OpenBMB/OlympiadBench) ![](https://img.shields.io/badge/Feb-2024-red) 
+- **MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**  [[Paper]](https://arxiv.org/abs/2403.14624) [[Dataset]](https://github.com/ZrrSkywalker/MathVerse) ![](https://img.shields.io/badge/Mar-2024-red)
 
 - **NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2403.01777) [[Dataset]](https://github.com/lizhouf/NPHardEval4V) ![](https://img.shields.io/badge/Mar-2024-red) 
 
-- **MPBench: A Comprehensive Multimodal Reasoning Benchmark for Process Errors Identification**  [[Paper]](https://arxiv.org/abs/2503.12505) [[Dataset]](https://mpbench.github.io/) ![](https://img.shields.io/badge/Mar-2025-red) 
+- **Measuring Multimodal Mathematical Reasoning with MATH-Vision Dataset**  [[Paper]](https://arxiv.org/abs/2402.14804) [[Dataset]](https://github.com/mathllm/MATH-V) ![](https://img.shields.io/badge/Feb-2024-red) 
 
-- **MATP-BENCH: Can MLLM Be a Good Automated Theorem Prover for Multimodal Problems?**  [[Paper]](https://arxiv.org/abs/2506.06034) [[Dataset]](https://github.com/Zhitao-He/MATPBench) ![](https://img.shields.io/badge/Jun-2025-red)
+- **OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2402.14008) [[Dataset]](https://github.com/OpenBMB/OlympiadBench) ![](https://img.shields.io/badge/Feb-2024-red) 
 
-- **Is Your Model Really A Good Math Reasoner? Evaluating Mathematical Reasoning with Checklist**  [[Paper]](https://arxiv.org/abs/2407.08733#:~:text=To%20this%20end%2C%20we%20introduce%20MathCheck%2C%20a%20well-designed,as%20an%20automatic%20tool%20to%20generate%20checklists%20efficiently.) [[Dataset]](https://github.com/PremiLab-Math/MathCheck) ![](https://img.shields.io/badge/Oct-2024-red)
+- **MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**  [[Paper]](https://arxiv.org/abs/2310.02255) [[Dataset]](https://github.com/lupantech/MathVista) ![](https://img.shields.io/badge/Oct-2023-red) 
 
 - **Are Deep Neural Networks SMARTer than Second Graders?**  [[Paper]](https://arxiv.org/abs/2212.09993) [[Dataset]](https://smartdataset.github.io/smart101/) ![](https://img.shields.io/badge/Dec-2022-red)
 
-- **MMATH: A Multilingual Benchmark for Mathematical Reasoning**  [[Paper]](https://arxiv.org/abs/2505.19126) [[Dataset]](https://github.com/RUCAIBox/MMATH) ![](https://img.shields.io/badge/May-2025-red) 
 
 ### 🔬 Scientific Reasoning
 

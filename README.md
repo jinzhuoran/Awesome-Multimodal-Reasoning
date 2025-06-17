@@ -177,6 +177,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** [[Paper]](https://arxiv.org/abs/2404.14604) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
+- **KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**  [[Paper]](https://arxiv.org/abs/2401.12863) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-RAG-blue) 
+
 - **Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
 
 - **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2309.04461) ![](https://img.shields.io/badge/Sep-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
@@ -301,26 +303,12 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 #### Think with Images
 
-- **CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning**  [[Paper]](https://arxiv.org/abs/2402.04236) ![](https://img.shields.io/badge/Feb-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+- **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://papers.neurips.cc/paper_files/paper/2024/file/f38cb4cf9a5eaa92b3cfa481832719c6-Paper-Conference.pdf) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
 
-- **Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2403.12966) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-SFT-brightgreen) ![](https://img.shields.io/badge/Method-Visual_QA-blue) 
+- **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235v1) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-DPO-blue) 
 
-- **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**  [[Paper]](https://arxiv.org/abs/2406.09403) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) ![](https://img.shields.io/badge/Method-Code_Generation-blue)
-
-- **ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration**  [[Paper]](https://arxiv.org/abs/2411.16044) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
-
-- **Interleaved-Modal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2411.19488) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
-
-- **TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**  [[Paper]](https://arxiv.org/abs/2412.05479) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
-
-- **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**  [[Paper]](https://arxiv.org/abs/2412.02025) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Autonomous_Driving-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
-
-- **Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**  [[Paper]](https://arxiv.org/abs/2412.03548) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Counting-brightgreen) ![](https://img.shields.io/badge/Method-Perception_Tokens-blue) 
-
-- **ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**  [[Paper]](https://arxiv.org/abs/2501.05452) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Structured_Image_Understanding-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
-
-- **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**  [[Paper]](https://arxiv.org/abs/2501.07542) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
-
+- **VideoDeepResearch: Long Video Understanding With Agentic Tool Using**  [[Paper]](https://arxiv.org/pdf/2506.10821) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
+- 
 - **Grounded Chain-of-Thought for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.12799) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 - **Perception in Reflection**  [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
@@ -361,14 +349,26 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**  [[Paper]](https://arxiv.org/abs/2505.21457) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
 
-- **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://papers.neurips.cc/paper_files/paper/2024/file/f38cb4cf9a5eaa92b3cfa481832719c6-Paper-Conference.pdf) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
+- **ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**  [[Paper]](https://arxiv.org/abs/2501.05452) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Structured_Image_Understanding-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
-- **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235v1) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-DPO-blue) 
+- **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**  [[Paper]](https://arxiv.org/abs/2501.07542) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
-- **VideoDeepResearch: Long Video Understanding With Agentic Tool Using**  [[Paper]](https://arxiv.org/pdf/2506.10821) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
+- **TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**  [[Paper]](https://arxiv.org/abs/2412.05479) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Kam-cot: Knowledge augmented multimodal chain-of-thoughts reasoning**  [[Paper]](https://arxiv.org/abs/2401.12863) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-RAG-blue) 
+- **Perception Tokens Enhance Visual Reasoning in Multimodal Language Models**  [[Paper]](https://arxiv.org/abs/2412.03548) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Counting-brightgreen) ![](https://img.shields.io/badge/Method-Perception_Tokens-blue)
 
+- **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**  [[Paper]](https://arxiv.org/abs/2412.02025) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Autonomous_Driving-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
+
+- **Interleaved-Modal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2411.19488) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration**  [[Paper]](https://arxiv.org/abs/2411.16044) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
+- **Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models**  [[Paper]](https://arxiv.org/abs/2406.09403) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) ![](https://img.shields.io/badge/Method-Code_Generation-blue)
+
+- **Chain-of-Spot: Interactive Reasoning Improves Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2403.12966) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-SFT-brightgreen) ![](https://img.shields.io/badge/Method-Visual_QA-blue) 
+
+- **CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning**  [[Paper]](https://arxiv.org/abs/2402.04236) ![](https://img.shields.io/badge/Feb-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+  
 - **MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning**  [[Paper]](https://arxiv.org/abs/2401.10727) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)

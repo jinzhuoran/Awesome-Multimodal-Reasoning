@@ -55,6 +55,12 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 + **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.02835) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-Genral-brightgreen)  ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
 
++ **URSA: Understanding and Verifying Chain-of-Thought Reasoning in MultimodalMathematics** [[Paper]](https://arxiv.org/abs/2501.04686) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Process_Reward-blue)
+
++ **InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model** [[Paper]](https://arxiv.org/abs/2501.12368) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
+
++ **Benchmarking Multimodal CoT Reward Model Stepwise by Visual Program** [[Paper]](https://arxiv.org/abs/2504.06606) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-Genral-brightgreen)  ![](https://img.shields.io/badge/Method-Process_Reward-blue)
+
 + **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2503.10291) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
 + **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search** [[Paper]](https://arxiv.org/abs/2504.10222) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Logic-brightgreen)  ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen)    ![](https://img.shields.io/badge/Method-Process_Reward-blue)

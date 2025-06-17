@@ -468,6 +468,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2504.05782) [[Dataset]](https://github.com/LanceZPF/MDK12?tab=readme-ov-file#-datasets) ![](https://img.shields.io/badge/Apr-2025-red)
 
+- **MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**  [[Paper]](https://arxiv.org/abs/2504.03641) [[Dataset]](https://huggingface.co/datasets/wulin222/MME-Unify) ![](https://img.shields.io/badge/Apr-2025-red) 
+
 - **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**  [[Paper]](https://arxiv.org/abs/2502.09621) [[Dataset]](https://huggingface.co/datasets/CaraJ/MME-CoT) ![](https://img.shields.io/badge/Feb-2025-red) 
 
 - **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**  [[Paper]](https://arxiv.org/abs/2502.00698) [[Dataset]](https://huggingface.co/datasets/huanqia/MM-IQ) ![](https://img.shields.io/badge/Feb-2025-red) 
@@ -712,7 +714,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
  
 ### 🔀 Modal-Interleaved Reasoning
 
-- **MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**  [[Paper]](https://arxiv.org/abs/2504.03641) [[Dataset]](https://huggingface.co/datasets/wulin222/MME-Unify) ![](https://img.shields.io/badge/Apr-2025-red) 
++ **ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations** [[Paper]](https://arxiv.org/abs/2505.14404) [[Dataset]](https://huggingface.co/datasets/meituan/ViC-Bench) ![](https://img.shields.io/badge/May-2025-red)
+
++ **CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models** [[Paper]](https://arxiv.org/abs/2412.12932) [[Dataset]](https://huggingface.co/datasets/czh-up/comt) ![](https://img.shields.io/badge/Dec-2024-red)
 
 
 ## 🗂️ Survey

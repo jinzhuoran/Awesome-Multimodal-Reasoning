@@ -303,12 +303,14 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 #### Think with Images
 
-- **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://papers.neurips.cc/paper_files/paper/2024/file/f38cb4cf9a5eaa92b3cfa481832719c6-Paper-Conference.pdf) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
-
-- **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235v1) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-DPO-blue) 
-
 - **VideoDeepResearch: Long Video Understanding With Agentic Tool Using**  [[Paper]](https://arxiv.org/pdf/2506.10821) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
-- 
+
+- **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
+
+- **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
+
+- **MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**  [[Paper]](https://arxiv.org/abs/2506.05331) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Visual_Token-blue) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) 
+
 - **Grounded Chain-of-Thought for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.12799) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 - **Perception in Reflection**  [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 

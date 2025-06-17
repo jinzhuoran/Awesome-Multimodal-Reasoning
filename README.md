@@ -397,6 +397,14 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **ReasonGen‑R1: CoT for Autoregressive Image Generation models through SFT and RL** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 
+- **ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought Reasoning** [[Paper]](https://arxiv.org/abs/2503.19312) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+
+- **I Think, Therefore l Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models** [[Paper]](https://arxiv.org/abs/2502.10458) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+
+
+
 ## 🧪 Benchmark
 
 ### 🧠 General Reasoning
@@ -646,6 +654,13 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 🎨 Text-to-Image Reasoning
 
++ **MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning** [[Paper]](https://arxiv.org/abs/2506.10963) [[Dataset]](https://huggingface.co/datasets/MMMGBench/MMMG) ![](https://img.shields.io/badge/Jun-2025-red)
+ 
++ **GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation** [[Paper]](https://arxiv.org/abs/2504.02782) [[Dataset]](https://github.com/PicoTrex/GPT-ImgEval) ![](https://img.shields.io/badge/May-2025-red)
+
++ **Can MLLMs Perform Text-to-Image In-Context Learning?** [[Paper]](https://arxiv.org/abs/2402.01293) [[Dataset]](https://github.com/UW-Madison-Lee-Lab/CoBSAT?tab=readme-ov-file) ![](https://img.shields.io/badge/Jul-2024-red)
+
+ 
 ### 🔀 Modal-Interleaved Reasoning
  
 

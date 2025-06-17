@@ -133,6 +133,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Sherlock: Self-Correcting Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Correction-blue)
 
+- **MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning** [[Paper]](https://arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
 - **Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains** [[Paper]](https://arxiv.org/abs/2504.20199) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 - **Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization** [[Paper]](https://arxiv.org/abs/2504.18397) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue)

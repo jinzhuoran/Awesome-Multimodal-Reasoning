@@ -81,7 +81,7 @@ Verification** [[Paper]](https://arxiv.org/abs/2502.13383) ![](https://img.shiel
 + **VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search** [[Paper]](https://arxiv.org/abs/2504.09130) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Spatial-brightgreen)  ![](https://img.shields.io/badge/Method-MCTS-blue) ![](https://img.shields.io/badge/Method-Self_Reward-blue)
 
 + **From Trial to Triumph: Advancing Long Video Understanding via Visual
-Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/abs/2503.20472) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Search_Strategy-blue) ![](https://img.shields.io/badge/Method-BoN-blue) ![](https://img.shields.io/badge/Method-Self_Reward-blue)
+Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/abs/2503.20472) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-BoN-blue) ![](https://img.shields.io/badge/Method-Self_Reward-blue)
 
 + **VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos** [[Paper]](https://arxiv.org/abs/2405.19209) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen)  ![](https://img.shields.io/badge/Method-Tree_Search-blue) ![](https://img.shields.io/badge/Method-Self_Reward-blue)
 

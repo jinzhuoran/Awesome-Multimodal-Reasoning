@@ -404,7 +404,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **Visual Programming: Compositional visual reasoning without training**  [[Paper]](https://arxiv.org/abs/2211.11559) ![](https://img.shields.io/badge/Nov-2022-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
 
-#### Image Generation with CoT
+#### Image Generation with Reasoning
 
 - **ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning** [[Paper]](https://arxiv.org/abs/2506.03596) ![](https://img.shields.io/badge/Jun-2025-red)
 

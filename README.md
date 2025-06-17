@@ -49,22 +49,20 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
 
 #### Reward Modeling
 
-+ **MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision** [[Paper]](https://arxiv.org/abs/2505.13427) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)    ![](https://img.shields.io/badge/Method-PRM-blue)
++ **MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision** [[Paper]](https://arxiv.org/abs/2505.13427) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)    ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
-+ **Athena: Enhancing Multimodal Reasoning with Data-efficient Process Reward Models** [[Paper]](https://arxiv.org/abs/2506.09532) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen)     ![](https://img.shields.io/badge/Method-PRM-blue)
++ **Athena: Enhancing Multimodal Reasoning with Data-efficient Process Reward Models** [[Paper]](https://arxiv.org/abs/2506.09532) ![](https://img.shields.io/badge/June-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-General-brightgreen)     ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
-+ **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.02835) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-Genral-brightgreen)  ![](https://img.shields.io/badge/Method-ORM-blue)
++ **R1-Reward: Training Multimodal Reward Model Through Stable Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.02835) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)   ![](https://img.shields.io/badge/Task-Genral-brightgreen)  ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
 
-+ **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2503.10291) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-PRM-blue)
++ **VisualPRM: An Effective Process Reward Model for Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2503.10291) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
-+ **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search** [[Paper]](https://arxiv.org/abs/2504.10222) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Logic-brightgreen)  ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen)    ![](https://img.shields.io/badge/Method-PRM-blue)
-
++ **PRM-BAS: Enhancing Multimodal Reasoning through PRM-guided Beam Annealing Search** [[Paper]](https://arxiv.org/abs/2504.10222) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Logic-brightgreen)  ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen)    ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
 + **MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought
-Verification** [[Paper]](https://arxiv.org/abs/2502.13383) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-ORM-blue)
+Verification** [[Paper]](https://arxiv.org/abs/2502.13383) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Outcome_Reward-blue)
 
-+ **Progressive Multimodal Reasoning via Active Retrieval** [[Paper]](https://arxiv.org/abs/2412.14835) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-PRM-blue)
-
++ **Progressive Multimodal Reasoning via Active Retrieval** [[Paper]](https://arxiv.org/abs/2412.14835) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-Process_Reward-blue)
 
 + **VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models** [[Paper]](https://arxiv.org/abs/2503.07478) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Benchmark-blue)
 
@@ -158,6 +156,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **Multimodal Chain-of-Thought Reasoning in Language Models** [[Paper]](https://arxiv.org/abs/2302.00923) ![](https://img.shields.io/badge/Feb-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 ### 🤖 Reinforcement Fine-Tuning
+
+- **Metis-RISE: RL Incentivizes and SFT Enhances Multimodal Reasoning Model Learning**  [[Paper]](https://arxiv.org/abs/2506.13056) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue) ![](https://img.shields.io/badge/Method-RL_&_SFT-blue)
 
 - **Vision Matters: Simple Visual Perturbations Can Boost Multimodal Math Reasoning**  [[Paper]](https://arxiv.org/abs/2506.09736) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
@@ -289,7 +289,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **V\*: Guided Visual Search as a Core Mechanism in Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2312.14135) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
-- **Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2312.08762) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Image_generation-blue) 
+- **Multi-modal Latent Space Learning for Chain-of-Thought Reasoning in Language Models**  [[Paper]](https://arxiv.org/abs/2312.08762) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Image_Generation-blue) 
 
 - **Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models**  [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Visual_Program_Distillation_Distilling_Tools_and_Programmatic_Reasoning_into_Vision-Language_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) 
 
@@ -307,7 +307,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Interleaved-Modal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2411.19488) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
-- **TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**  [[Paper]](https://arxiv.org/abs/2412.05479) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue)
+- **TACO: Learning Multi-modal Action Models with Synthetic Chains-of-Thought-and-Action**  [[Paper]](https://arxiv.org/abs/2412.05479) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 - **PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**  [[Paper]](https://arxiv.org/abs/2412.02025) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Autonomous_Driving-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
 
@@ -317,9 +317,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**  [[Paper]](https://arxiv.org/abs/2501.07542) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
-- **Grounded Chain-of-Thought for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.12799) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue)
+- **Grounded Chain-of-Thought for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.12799) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Perception in Reflection**  [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) 
+- **Perception in Reflection**  [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
 
 - **DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding**  [[Paper]](https://arxiv.org/abs/2504.14920) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Spaial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
@@ -329,7 +329,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **GRIT: Teaching MLLMs to Think with Images**  [[Paper]](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
 
-- **VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**  [[Paper]](https://arxiv.org/abs/2505.19255) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-structured_image_understanding-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+- **VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**  [[Paper]](https://arxiv.org/abs/2505.19255) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Structured_Image_Understanding-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
 
 - **DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.14362) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
 
@@ -347,9 +347,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection**  [[Paper]](https://arxiv.org/abs/2505.20289#:~:text=We%20introduce%20VisTA%2C%20a%20new%20reinforcement%20learning%20framework,from%20a%20diverse%20library%20based%20on%20empirical%20performance.) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
 
-- **Don't Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation**  [[Paper]](https://arxiv.org/abs/2505.18842) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue)
+- **Don't Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation**  [[Paper]](https://arxiv.org/abs/2505.18842) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2505.16192) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) ![](https://img.shields.io/badge/Method-RL-blue)
+- **VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2505.16192) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-RL-blue)
 
 - **Grounded Reinforcement Learning for Visual Reasoning**  [[Paper]](https://arxiv.org/abs/2505.23678v1) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method--blue) 
 
@@ -357,9 +357,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**  [[Paper]](https://arxiv.org/abs/2505.21457) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
 
-- **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://papers.neurips.cc/paper_files/paper/2024/file/f38cb4cf9a5eaa92b3cfa481832719c6-Paper-Conference.pdf) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) 
+- **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://papers.neurips.cc/paper_files/paper/2024/file/f38cb4cf9a5eaa92b3cfa481832719c6-Paper-Conference.pdf) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) 
 
-- **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235v1) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthetic-blue) ![](https://img.shields.io/badge/Method-DPO-blue) 
+- **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235v1) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-DPO-blue) 
 
 - **VideoDeepResearch: Long Video Understanding With Agentic Tool Using**  [[Paper]](https://arxiv.org/pdf/2506.10821) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
@@ -445,8 +445,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **MMATH: A Multilingual Benchmark for Mathematical Reasoning**  [[Paper]](https://arxiv.org/abs/2505.19126) [[Dataset]](https://github.com/RUCAIBox/MMATH) ![](https://img.shields.io/badge/May-2025-red) 
 
 ### 🔬 Scientific Reasoning
-
-- **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**  [[Paper]][(https://arxiv.org/abs/2504.05782) [[Dataset]](https://github.com/LanceZPF/MDK12?tab=readme-ov-file#-datasets) ![](https://img.shields.io/badge/Apr-2025-red) 
 
 - **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red) 
 

@@ -66,6 +66,14 @@ Verification** [[Paper]](https://arxiv.org/abs/2502.13383) ![](https://img.shiel
 + **Progressive Multimodal Reasoning via Active Retrieval** [[Paper]](https://arxiv.org/abs/2412.14835) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen)  ![](https://img.shields.io/badge/Method-PRM-blue)
 
 
++ **VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models** [[Paper]](https://arxiv.org/abs/2503.07478) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Benchmark-blue)
+
++ **Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models** [[Paper]](https://arxiv.org/abs/2502.14191) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Benchmark-blue)
+
++ **MM-RLHF: The Next Step Forward in Multimodal LLM Alignment** [[Paper]](https://arxiv.org/abs/2502.10391) ![](https://img.shields.io/badge/Feb-2025-red)  ![](https://img.shields.io/badge/Benchmark-blue)
+
+
+
 #### Search Strategy
 
 + **VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism** [[Paper]](https://arxiv.org/abs/2506.08691) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-MCTS-blue) ![](https://img.shields.io/badge/Method-Self_Reward-blue)
@@ -610,15 +618,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 ### 🎨 Text-to-Image Reasoning
 
 ### 🔀 Modal-Interleaved Reasoning
-
-### Reward Modeling
-
-+ **VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models** [[Paper]](https://arxiv.org/abs/2503.07478) ![](https://img.shields.io/badge/Mar-2025-red) 
-
-+ **Multimodal RewardBench: Holistic Evaluation of Reward Models for Vision Language Models** [[Paper]](https://arxiv.org/abs/2502.14191) ![](https://img.shields.io/badge/Feb-2025-red) 
-
-+ **MM-RLHF: The Next Step Forward in Multimodal LLM Alignment** [[Paper]](https://arxiv.org/abs/2502.10391) ![](https://img.shields.io/badge/Feb-2025-red)  
-
+ 
 
 ## 🗂️ Survey
 

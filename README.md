@@ -517,6 +517,24 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **Are deep neural networks SMARTer than second graders?** [[Paper]](https://arxiv.org/abs/2212.09993) [[Dataset]](https://smartdataset.github.io/smart101/) ![](https://img.shields.io/badge/Sep-2023-red)
 
+### ⏱️ Temporal Reasoning
+
++ **STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?** [[Paper]](https://arxiv.org/abs/2503.23765) [[Dataset]](https://huggingface.co/datasets/MINT-SJTU/STI-Bench) ![](https://img.shields.io/badge/May-2025-red)
+
++ **V-STaR : Benchmarking Video-LLMs on Video Spatio-Temporal Reasoning** [[Paper]](https://arxiv.org/abs/2503.11495) [[Dataset]](https://huggingface.co/datasets/V-STaR-Bench/V-STaR) ![](https://img.shields.io/badge/Mar-2025-red)
+
++ **Mtbench: A multimodal time series benchmark for temporal reasoning and question answering** [[Paper]](https://arxiv.org/abs/2503.16858) [[Dataset]](https://github.com/Graph-and-Geometric-Learning/MTBench) ![](https://img.shields.io/badge/Mar-2025-red)
+
++ **Can Multimodal LLMs do Visual Temporal Understanding and Reasoning? The answer is No!** [[Paper]](https://arxiv.org/abs/2501.10674) [[Dataset]](https://huggingface.co/datasets/fazliimam/temporal-vqa) ![](https://img.shields.io/badge/Feb-2025-red)
+
++ **TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models** [[Paper]](https://arxiv.org/abs/2410.23266) [[Dataset]](https://huggingface.co/datasets/yale-nlp/TOMATO) ![](https://img.shields.io/badge/Oct-2024-red)
+
++ **VITATECS: A Diagnostic Dataset for Temporal Concept Understanding of Video-Language Models** [[Paper]](https://arxiv.org/abs/2311.17404) [[Dataset]](https://huggingface.co/datasets/lscpku/VITATECS) ![](https://img.shields.io/badge/Sep-2024-red)
+
++ **ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos** [[Paper]](https://arxiv.org/abs/2406.19392) [[Dataset]](https://huggingface.co/datasets/ReXTime/ReXTime) ![](https://img.shields.io/badge/Jul-2024-red)
+
++ **EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding** [[Paper]](https://arxiv.org/abs/2308.09126) [[Dataset]](https://egoschema.github.io/) ![](https://img.shields.io/badge/Aug-2023-red)
+
 ### 📊 Chart Reasoning
 
 + **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning** [[Paper]](https://arxiv.org/abs/2402.12185) [[Dataset]](https://huggingface.co/datasets/U4R/ChartX/viewer) ![](https://img.shields.io/badge/Apr-2025-red)

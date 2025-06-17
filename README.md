@@ -410,6 +410,12 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning** [[Paper]](https://arxiv.org/abs/2506.03596) ![](https://img.shields.io/badge/Jun-2025-red)
 
+- **UniRL: Self‑Improving Unified Multimodal Models via Supervised and Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.23380) ![](https://img.shields.io/badge/May-2025-red)
+
+- **Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO** [[Paper]](https://arxiv.org/abs/2505.17017) ![](https://img.shields.io/badge/May-2025-red)
+
+- **Self‑Reflective Reinforcement Learning for Diffusion‑based Image Reasoning Generation** [[Paper]](https://arxiv.org/abs/2505.22407) ![](https://img.shields.io/badge/May-2025-red)
+
 - **GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.17022) ![](https://img.shields.io/badge/May-2025-red)
 - **T2I Diffusion Model Fine-tuning** [[Paper]](https://arxiv.org/abs/2505.19196) ![](https://img.shields.io/badge/May-2025-red)
 
@@ -425,11 +431,16 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL** [[Paper]](https://arxiv.org/abs/2504.11455) ![](https://img.shields.io/badge/Apr-2025-red)
 
+- **Complex-Edit: CoT‑Like Instruction Generation for Complexity‑Controllable Image Editing Benchmark** [[Paper]](https://arxiv.org/abs/2504.13143) ![](https://img.shields.io/badge/Apr-2025-red)
+
 - **ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought Reasoning** [[Paper]](https://arxiv.org/abs/2503.19312) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **I Think, Therefore l Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models** [[Paper]](https://arxiv.org/abs/2502.10458) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step** [[Paper]](https://arxiv.org/abs/2501.13926) ![](https://img.shields.io/badge/Jan-2025-red)
+
+
+- **IMAGINE-E: Image Generation Intelligence Evaluation of State‑of‑the‑art Text‑to‑Image Models** [[Paper]](https://arxiv.org/abs/2501.13920) ![](https://img.shields.io/badge/Jan-2025-red)
 
 - **Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval** [[Paper]](https://arxiv.org/abs/2412.11077) ![](https://img.shields.io/badge/Dec-2024-red)
 

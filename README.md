@@ -410,7 +410,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.17022) ![](https://img.shields.io/badge/May-2025-red)
 
-
 - **ReasonGen‑R1: CoT for Autoregressive Image Generation models through SFT and RL** [[Paper]](https://arxiv.org/abs/2505.24875) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 - **T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT** [[Paper]](https://arxiv.org/abs/2505.00703) ![](https://img.shields.io/badge/May-2025-red)
@@ -449,7 +448,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**  [[Paper]](https://arxiv.org/abs/2504.15279) [[Dataset]](https://huggingface.co/datasets/VisuLogic/VisuLogic) ![](https://img.shields.io/badge/Apr-2025-red) 
 
-- **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2504.05782) [[Dataset]](https://github.com/LanceZPF/MDK12?tab=readme-ov-file#-datasets) ![](https://img.shields.io/badge/Apr-2025-red) 
+- **MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2504.05782) [[Dataset]](https://github.com/LanceZPF/MDK12?tab=readme-ov-file#-datasets) ![](https://img.shields.io/badge/Apr-2025-red)
+
+- **MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**  [[Paper]](https://arxiv.org/abs/2502.09621) [[Dataset]](https://huggingface.co/datasets/CaraJ/MME-CoT) ![](https://img.shields.io/badge/Feb-2025-red) 
 
 - **MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models**  [[Paper]](https://arxiv.org/abs/2502.00698) [[Dataset]](https://huggingface.co/datasets/huanqia/MM-IQ) ![](https://img.shields.io/badge/Feb-2025-red) 
 
@@ -692,7 +693,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
  
 ### 🔀 Modal-Interleaved Reasoning
- 
+
+- **MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**  [[Paper]](https://arxiv.org/abs/2504.03641) [[Dataset]](https://huggingface.co/datasets/wulin222/MME-Unify) ![](https://img.shields.io/badge/Apr-2025-red) 
+
 
 ## 🗂️ Survey
 

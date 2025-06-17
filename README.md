@@ -197,11 +197,13 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Play to Generalize: Learning to Reason Through Game Play**  [[Paper]](https://arxiv.org/abs/2506.08011) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Game-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via Visual Perception Reward**  [[Paper]](https://arxiv.org/abs/2506.07218) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
-
 - **WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**  [[Paper]](https://www.arxiv.org/abs/2506.07905) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Genral-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **DeepVideo-R1: Video Reinforcement Fine-Tuning via Difficulty-aware Regressive GRPO**  [[Paper]](https://arxiv.org/abs/2506.07464) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
+
+- **Advancing Multimodal Reasoning Capabilities of Multimodal Large Language Models via Visual Perception Reward**  [[Paper]](https://arxiv.org/abs/2506.07218) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
+- **Vision-EKIPL: External Knowledge-Infused Policy Learning for Visual Reasoning**  [[Paper]](https://arxiv.org/abs/2506.06856) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
 - **Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2506.04207) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 

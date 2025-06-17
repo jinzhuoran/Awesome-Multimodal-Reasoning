@@ -440,9 +440,13 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks**  [[Paper]](https://arxiv.org/abs/2505.16459) [[Dataset]](https://huggingface.co/datasets/csegirl/MMMR) ![](https://img.shields.io/badge/May-2025-red) 
 
+- **RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs**  [[Paper]](https://arxiv.org/abs/2505.16770) [[Dataset]](https://huggingface.co/datasets/R-Bench/R-Bench-V) ![](https://img.shields.io/badge/May-2025-red) 
+
 - **ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.13444) [[Dataset]](https://huggingface.co/datasets/lytang/ChartMuseum) ![](https://img.shields.io/badge/May-2025-red) 
 
 - **MIRAGE: A Multi-modal Benchmark for Spatial Perception, Reasoning, and Intelligence**  [[Paper]](https://arxiv.org/abs/2505.10604) [[Dataset]](https://huggingface.co/datasets/Mmoment/Mirage_Multimodal_Benchmark) ![](https://img.shields.io/badge/May-2025-red) 
+
+- **On Path to Multimodal Generalist: General-Level and General-Bench**  [[Paper]](https://arxiv.org/abs/2505.04620) [[Dataset]](https://huggingface.co/General-Level) ![](https://img.shields.io/badge/May-2025-red) 
 
 - **R-Bench: Graduate-level Multi-disciplinary Benchmarks for LLM & MLLM Complex Reasoning Evaluation**  [[Paper]](https://arxiv.org/abs/2505.02018) [[Dataset]](https://huggingface.co/datasets/R-Bench/R-Bench) ![](https://img.shields.io/badge/May-2025-red) 
 

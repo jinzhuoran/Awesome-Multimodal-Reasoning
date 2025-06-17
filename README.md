@@ -313,7 +313,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2505.15510) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Visual_Generation-blue)
 
-- **OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.08617) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue)  ![](https://img.shields.io/badge/Method-Visual_Tool-blue) 
+- **OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.08617) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue)  ![](https://img.shields.io/badge/Method-Visual_Tool-blue) 
 
 - **Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.15966) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) 
 

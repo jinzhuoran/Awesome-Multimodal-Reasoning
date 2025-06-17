@@ -311,6 +311,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**  [[Paper]](https://arxiv.org/abs/2506.05331) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Visual_Token-blue) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue)
 
+- **Thinking with Generated Images** [[Paper]](https://arxiv.org/abs/2505.22525) ![](https://img.shields.io/badge/May-2025-red)
+
 - **Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2505.15510) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Image_Generation-blue)
 
 - **OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.08617) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) 
@@ -402,6 +404,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.17022) ![](https://img.shields.io/badge/May-2025-red)
 
+- **T2I Diffusion Model Fine-tuning** [[Paper]](https://arxiv.org/abs/2505.19196) ![](https://img.shields.io/badge/May-2025-red)
 
 - **ReasonGen‑R1: CoT for Autoregressive Image Generation models through SFT and RL** [[Paper]](https://arxiv.org/abs/2505.24875) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 

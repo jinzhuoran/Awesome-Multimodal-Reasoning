@@ -16,6 +16,7 @@ A comprehensive and up-to-date collection of state-of-the-art methods and benchm
   - [Scientific Reasoning](#-scientific-reasoning)
   - [Logical Reasoning](#-logical-reasoning)
   - [Spatial Reasoning](#-spatial-reasoning)
+  - [Temporal Reasoning](#-temporal-reasoning)
   - [Chart Reasoning](#-chart-reasoning)
   - [Multi-Image Reasoning](#-multi-image-reasoning)
   - [Video Reasoning](#-video-reasoning)
@@ -739,5 +740,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.09567) ![](https://img.shields.io/badge/Mar-2025-red)
 
 - **From System 1 to System 2: A Survey of Reasoning Large Language Models**  [[Paper]](https://arxiv.org/abs/2502.17419) ![](https://img.shields.io/badge/Feb-2025-red)
-
+  
 - **MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**  [[Paper]](https://arxiv.org/abs/2411.15296) ![](https://img.shields.io/badge/Nov-2024-red)
+
+- **Exploring the Reasoning Abilities of Multimodal Large Language Models (MLLMs): A Comprehensive Survey on Emerging Trends in Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2401.06805) ![](https://img.shields.io/badge/Jan-2024-red)

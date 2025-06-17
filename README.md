@@ -2,6 +2,27 @@
 
 A comprehensive and up-to-date collection of state-of-the-art methods and benchmarks in **multimodal reasoning**. 🚀 Contributions and suggestions are highly encouraged!
 
+## 📚 Table of Contents
+
+- [Method](#-method)
+  - [Prompt-Augmented Inference](#prompt-augmented-inference)
+  - [Reward-Guided Inference](#reward-guided-inference)
+  - [Supervised Fine-Tuning](#supervised-fine-tuning)
+  - [Reinforcement Fine-Tuning](#reinforcement-fine-tuning)
+  - [Think with Interleaved-Modal](#think-with-interleaved-modal)
+- [Benchmark](#benchmark)
+  - [General Reasoning](#general-reasoning)
+  - [Mathematical Reasoning](#mathematical-reasoning)
+  - [Scientific Reasoning](#scientific-reasoning)
+  - [Logical Reasoning](#logical-reasoning)
+  - [Spatial Reasoning](#spatial-reasoning)
+  - [Chart Reasoning](#chart-reasoning)
+  - [Multi-Image Reasoning](#multi-image-reasoning)
+  - [Video Reasoning](#video-reasoning)
+  - [Audio Reasoning](#audio-reasoning)
+  - [Image-Generation Reasoning](#image-generation-reasoning)
+  - [Modal-Interleaved Reasoning](#modal-interleaved-reasoning)
+    
 ## 🔧 Method
 
 ### 💡 Prompt-Augmented Inference

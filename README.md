@@ -722,8 +722,29 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations** [[Paper]](https://arxiv.org/abs/2505.14404) [[Dataset]](https://huggingface.co/datasets/meituan/ViC-Bench) ![](https://img.shields.io/badge/May-2025-red)
 
++ **PointArena: Probing Multimodal Grounding Through Language-Guided Pointing**  [[Paper]](https://arxiv.org/abs/2505.09990) [[Dataset]](https://github.com/pointarena/pointarena) ![](https://img.shields.io/badge/May-2025-red)
+
++ **ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.13444) [[Dataset]](https://github.com/Liyan06/ChartMuseum) ![](https://img.shields.io/badge/May-2025-red)
+
++ **Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps**  [[Paper]](https://arxiv.org/abs/2505.18675) [[Dataset]](https://github.com/fscdc/ReasonMap) ![](https://img.shields.io/badge/May-2025-red)
+
++ **PhyX: Does Your Model Have the "Wits" for Physical Reasoning?**  [[Paper]](https://arxiv.org/abs/2505.15929) [[Dataset]](https://github.com/NastyMarcus/PhyX) ![](https://img.shields.io/badge/May-2025-red)
+
++ **WorldScore: A Unified Evaluation Benchmark for World Generation**  [[Paper]](https://arxiv.org/abs/2504.00983) [[Dataset]](https://github.com/haoyi-duan/WorldScore) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**  [[Paper]](https://arxiv.org/abs/2504.03641) [[Dataset]](https://github.com/MME-Benchmarks/MME-Unify) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation**  [[Paper]](https://arxiv.org/abs/2504.00043) [[Dataset]](https://github.com/SeanLeng1/CrossWordBench) ![](https://img.shields.io/badge/Mar-2025-red)
+
 + **CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models** [[Paper]](https://arxiv.org/abs/2412.12932) [[Dataset]](https://huggingface.co/datasets/czh-up/comt) ![](https://img.shields.io/badge/Dec-2024-red)
 
++ **ARC Prize 2024: Technical Report**  [[Paper]](https://arxiv.org/abs/2412.04604) [[Dataset]](https://arxiv.org/abs/2412.04604) ![](https://img.shields.io/badge/Dec-2024-red)
+
++ **Vgbench: Evaluating large language models on vector graphics understanding and generation**  [[Paper]](https://arxiv.org/abs/2407.10972) [[Dataset]](https://github.com/vgbench/VGBench) ![](https://img.shields.io/badge/Jul-2024-red)
+
++ **m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks**  [[Paper]](https://arxiv.org/abs/2403.11085) [[Dataset]](https://github.com/RAIVNLab/mnms) ![](https://img.shields.io/badge/Mar-2024-red)
+
++ **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2402.18409) [[Dataset]](https://github.com/X-LANCE/CogBench) ![](https://img.shields.io/badge/Feb-2024-red)
 
 ## 🗂️ Survey
 

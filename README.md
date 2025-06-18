@@ -735,10 +735,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **ViC-Bench: Benchmarking Visual-Interleaved Chain-of-Thought Capability in MLLMs with Free-Style Intermediate State Representations** [[Paper]](https://arxiv.org/abs/2505.14404) [[Dataset]](https://huggingface.co/datasets/meituan/ViC-Bench) ![](https://img.shields.io/badge/May-2025-red)
 
-+ **On Path to Multimodal Generalist: General-Level and General-Bench** [[Paper]](https://arxiv.org/abs/2505.04620) [[Dataset]](https://github.com/path2generalist/General-Level) ![](https://img.shields.io/badge/May-2025-red)
-
-+ **RBench-V: A Primary Assessment for Visual Reasoning Models with Multi-modal Outputs** [[Paper]](https://arxiv.org/abs/2505.16770) [[Dataset]](https://github.com/CHEN-Xinsheng/VLMEvalKit_RBench-V) ![](https://img.shields.io/badge/May-2025-red)
-
 + **PointArena: Probing Multimodal Grounding Through Language-Guided Pointing**  [[Paper]](https://arxiv.org/abs/2505.09990) [[Dataset]](https://github.com/pointarena/pointarena) ![](https://img.shields.io/badge/May-2025-red)
 
 + **ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.13444) [[Dataset]](https://github.com/Liyan06/ChartMuseum) ![](https://img.shields.io/badge/May-2025-red)

@@ -337,8 +337,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Visual Agentic Reinforcement Fine-Tuning** [[Paper]](https://arxiv.org/abs/2505.14246) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Agent_Finetune-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
 
-- **GRIT: Teaching MLLMs to Think with Images** [[Paper]](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Multimodal_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Instruction_Tuning-blue)
-
 - **Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO** [[Paper]](https://arxiv.org/abs/2505.17017) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Image_Generation-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue) ![](https://img.shields.io/badge/Method-GRPO-blue)
 
 - **ProgRM: Build Better GUI Agents with Progress Rewards** [[Paper]](https://arxiv.org/abs/2505.18121) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GUI_Agent-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
@@ -369,7 +367,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.15966) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) 
 
-- **GRIT: Teaching MLLMs to Think with Images**  [[Paper]](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) 
+- **GRIT: Teaching MLLMs to Think with Images**  [[Paper]](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) ![](https://img.shields.io/badge/Method-Visual_Grounding-blue)
 
 - **VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**  [[Paper]](https://arxiv.org/abs/2505.19255) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Structured_Image_Understanding-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue) ![](https://img.shields.io/badge/Method-Visual_Programming-blue)
 

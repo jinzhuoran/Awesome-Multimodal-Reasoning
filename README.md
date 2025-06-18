@@ -493,7 +493,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step** [[Paper]](https://arxiv.org/abs/2501.13926) ![](https://img.shields.io/badge/Jan-2025-red)
 
-
 - **IMAGINE-E: Image Generation Intelligence Evaluation of State‑of‑the‑art Text‑to‑Image Models** [[Paper]](https://arxiv.org/abs/2501.13920) ![](https://img.shields.io/badge/Jan-2025-red)
 
 - **Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval** [[Paper]](https://arxiv.org/abs/2412.11077) ![](https://img.shields.io/badge/Dec-2024-red)
@@ -587,6 +586,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 
 ### 🔬 Scientific Reasoning
+
+- **Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning**  [[Paper]](https://www.arxiv.org/abs/2506.10521) [[Dataset]](https://huggingface.co/datasets/PrismaX/SFE) ![](https://img.shields.io/badge/Jun-2025-red) 
 
 - **SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems**  [[Paper]](https://arxiv.org/abs/2503.10627) [[Dataset]](https://huggingface.co/datasets/ZiyuG/SciVerse) ![](https://img.shields.io/badge/Mar-2025-red) 
 

@@ -539,6 +539,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **M3CoT: A Novel Benchmark for Multi-Domain Multi-step Multi-modal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2405.16473) [[Dataset]](https://huggingface.co/datasets/LightChen2333/M3CoT) ![](https://img.shields.io/badge/May-2024-red) 
 
+- **MMT-Bench: A Comprehensive Multimodal Benchmark for Evaluating Large Vision-Language Models Towards Multitask AGI**  [[Paper]](https://arxiv.org/abs/2404.16006) [[Dataset]](https://huggingface.co/datasets/OpenGVLab/MMT-Bench) ![](https://img.shields.io/badge/Apr-2024-red)
+
 - **Are We on the Right Way for Evaluating Large Vision-Language Models?**  [[Paper]](https://arxiv.org/abs/2403.20330) [[Dataset]](https://huggingface.co/datasets/Lin-Chen/MMStar) ![](https://img.shields.io/badge/Mar-2024-red)
 
 - **Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning**  [[Paper]](https://arxiv.org/abs/2403.16999) [[Dataset]](https://huggingface.co/datasets/deepcs233/Visual-CoT) ![](https://img.shields.io/badge/Mar-2024-red)

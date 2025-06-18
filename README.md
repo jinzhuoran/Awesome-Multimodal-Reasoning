@@ -403,7 +403,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Perception in Reflection**  [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models** [[Paper]](https://arxiv.org/abs/2503.22020) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-VLA-brightgreen) ![](https://img.shields.io/badge/Method-Visual-Generation-blue)
+- **CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models** [[Paper]](https://arxiv.org/abs/2503.22020) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-VLA-brightgreen)  ![](https://img.shields.io/badge/Method-Visual-Generation-blue)
 
 - **Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement** [[Paper]](https://arxiv.org/abs/2503.06520) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Segmentation-brightgreen) ![](https://img.shields.io/badge/Method-CoT-blue) ![](https://img.shields.io/badge/Method-RL-blue)
 

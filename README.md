@@ -337,8 +337,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Visual Agentic Reinforcement Fine-Tuning** [[Paper]](https://arxiv.org/abs/2505.14246) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Agent_Finetune-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
 
-- **Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL** [[Paper]](https://arxiv.org/abs/2505.15436) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Multimodal_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Zooming-blue) ![](https://img.shields.io/badge/Method-RL-blue)
-
 - **GRIT: Teaching MLLMs to Think with Images** [[Paper]](https://arxiv.org/abs/2505.15879) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Multimodal_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Instruction_Tuning-blue)
 
 - **Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO** [[Paper]](https://arxiv.org/abs/2505.17017) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Image_Generation-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue) ![](https://img.shields.io/badge/Method-GRPO-blue)
@@ -381,7 +379,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding**  [[Paper]](https://arxiv.org/abs/2505.18079) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
-- **Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**  [[Paper]](https://arxiv.org/abs/2505.15436) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue)
+- **Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL**  [[Paper]](https://arxiv.org/abs/2505.15436) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue)  ![](https://img.shields.io/badge/Method-Zooming-blue) 
 
 - **AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**  [[Paper]](https://arxiv.org/pdf/2505.15298) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Autonomous_Driving-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) 
 

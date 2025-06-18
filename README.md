@@ -241,6 +241,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**  [[Paper]](https://arxiv.org/abs/2505.22453) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
+- **TACO: Think-Answer Consistency for Optimized Long-Chain Reasoning and Efficient Data Learning via Reinforcement Learning in LVLMs**  [[Paper]](https://arxiv.org/abs/2505.20777) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Perception-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
+
 - **Omni-R1: Reinforcement Learning for Omnimodal Reasoning via Two-System Collaboration**  [[Paper]](https://arxiv.org/abs/2505.20256) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Omni-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **One RL to See Them All: Visual Triple Unified Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.18129) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)

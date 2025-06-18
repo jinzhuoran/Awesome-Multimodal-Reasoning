@@ -365,8 +365,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards**  [[Paper]](https://arxiv.org/abs/2505.19094) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-VQA-brightgreen) ![](https://img.shields.io/badge/Method-Visual_Grounding-blue)
 
-- **Thinking with Generated Images** [[Paper]](https://arxiv.org/abs/2505.22525) ![](https://img.shields.io/badge/May-2025-red)
-
 - **Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought**  [[Paper]](https://arxiv.org/abs/2505.15510) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Visual_Generation-blue)
 
 - **OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.08617) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue)  ![](https://img.shields.io/badge/Method-Visual_Tool-blue) 
@@ -409,9 +407,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement** [[Paper]](https://arxiv.org/abs/2503.06520) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Segmentation-brightgreen) ![](https://img.shields.io/badge/Method-CoT-blue) ![](https://img.shields.io/badge/Method-RL-blue)
 
-- **Grounded Chain-of-Thought for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.12799) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
-
-- **Visual-RFT: Visual Reinforcement Fine-Tuning** [[Paper]](https://arxiv.org/abs/2503.01785) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Multimodal_Finetune-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue) ![](https://img.shields.io/badge/Method-Visual-Grounding-blue)
+- **Grounded Chain-of-Thought for Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2503.12799) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-Visual-Grounding-blue)
 
 - **DyFo: A Training-Free Dynamic Focus Visual Search for Enhancing LMMs in Fine-Grained Visual Understanding**  [[Paper]](https://arxiv.org/abs/2504.14920) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Spaial_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 

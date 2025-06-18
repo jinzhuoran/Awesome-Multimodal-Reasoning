@@ -762,12 +762,15 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning** [[Paper]](https://arxiv.org/abs/2506.10963) [[Dataset]](https://huggingface.co/datasets/MMMGBench/MMMG) ![](https://img.shields.io/badge/Jun-2025-red)
 
-- **KRIS‑Bench: Benchmarking Next‑Level Intelligent Image Editing Models** [[Paper]](https://arxiv.org/abs/2505.16707) ![](https://img.shields.io/badge/May-2025-red)
++ **KRIS‑Bench: Benchmarking Next‑Level Intelligent Image Editing Models** [[Paper]](https://arxiv.org/abs/2505.16707) ![](https://img.shields.io/badge/May-2025-red)
 
- 
 + **GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation** [[Paper]](https://arxiv.org/abs/2504.02782) [[Dataset]](https://github.com/PicoTrex/GPT-ImgEval) ![](https://img.shields.io/badge/May-2025-red)
 
-+ **Can MLLMs Perform Text-to-Image In-Context Learning?** [[Paper]](https://arxiv.org/abs/2402.01293) [[Dataset]](https://github.com/UW-Madison-Lee-Lab/CoBSAT?tab=readme-ov-file) ![](https://img.shields.io/badge/Jul-2024-red)
++ **WorldScore: A Unified Evaluation Benchmark for World Generation**  [[Paper]](https://arxiv.org/abs/2504.00983) [[Dataset]](https://github.com/haoyi-duan/WorldScore) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **WorldModelBench: Judging Video Generation Models As World Models** [[Paper]](https://arxiv.org/abs/2502.20694) [[Dataset]](https://worldmodelbench-team.github.io/) ![](https://img.shields.io/badge/Feb-2025-red)
+
++ **Can MLLMs Perform Text-to-Image In-Context Learning?** [[Paper]](https://arxiv.org/abs/2402.01293) [[Dataset]](https://github.com/UW-Madison-Lee-Lab/CoBSAT?tab=readme-ov-file) ![](https://img.shields.io/badge/Feb-2024-red)
 
  
 ### 🔀 Modal-Interleaved Reasoning
@@ -780,13 +783,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **PointArena: Probing Multimodal Grounding Through Language-Guided Pointing**  [[Paper]](https://arxiv.org/abs/2505.09990) [[Dataset]](https://github.com/pointarena/pointarena) ![](https://img.shields.io/badge/May-2025-red)
 
-+ **ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2505.13444) [[Dataset]](https://github.com/Liyan06/ChartMuseum) ![](https://img.shields.io/badge/May-2025-red)
-
 + **Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps**  [[Paper]](https://arxiv.org/abs/2505.18675) [[Dataset]](https://github.com/fscdc/ReasonMap) ![](https://img.shields.io/badge/May-2025-red)
 
 + **PhyX: Does Your Model Have the "Wits" for Physical Reasoning?**  [[Paper]](https://arxiv.org/abs/2505.15929) [[Dataset]](https://github.com/NastyMarcus/PhyX) ![](https://img.shields.io/badge/May-2025-red)
-
-+ **WorldScore: A Unified Evaluation Benchmark for World Generation**  [[Paper]](https://arxiv.org/abs/2504.00983) [[Dataset]](https://github.com/haoyi-duan/WorldScore) ![](https://img.shields.io/badge/Apr-2025-red)
 
 + **MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models**  [[Paper]](https://arxiv.org/abs/2504.03641) [[Dataset]](https://github.com/MME-Benchmarks/MME-Unify) ![](https://img.shields.io/badge/Apr-2025-red)
 

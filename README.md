@@ -460,7 +460,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **Visual Programming: Compositional visual reasoning without training**  [[Paper]](https://arxiv.org/abs/2211.11559) ![](https://img.shields.io/badge/Nov-2022-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
 
-#### Image Generation with Reasoning
+#### Reasoning-Intensive Image Generation
 
 - **ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning** [[Paper]](https://arxiv.org/abs/2506.03596) ![](https://img.shields.io/badge/Jun-2025-red)
 
@@ -487,9 +487,13 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Complex-Edit: CoT‑Like Instruction Generation for Complexity‑Controllable Image Editing Benchmark** [[Paper]](https://arxiv.org/abs/2504.13143) ![](https://img.shields.io/badge/Apr-2025-red)
 
+- **Transfer between Modalities with MetaQueries** [[Paper]](https://arxiv.org/abs/2504.06256) ![](https://img.shields.io/badge/Apr-2025-red)
+
 - **ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought Reasoning** [[Paper]](https://arxiv.org/abs/2503.19312) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing** [[Paper]](https://arxiv.org/abs/2503.10639) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **MINT: Multi‑modal Chain of Thought in Unified Generative Models for Enhanced Image Generation** [[Paper]](https://arxiv.org/abs/2503.01298) ![](https://img.shields.io/badge/Mar-2025-red)
 
 - **I Think, Therefore l Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models** [[Paper]](https://arxiv.org/abs/2502.10458) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
@@ -500,6 +504,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval** [[Paper]](https://arxiv.org/abs/2412.11077) ![](https://img.shields.io/badge/Dec-2024-red)
 
 - **SketchAgent: Language-Driven Sequential Sketch Generation** [[Paper]](https://arxiv.org/abs/2411.17673) ![](https://img.shields.io/badge/Nov-2024-red)
+
+- **SEED‑X: Multimodal Models with Unified Multi‑granularity Comprehension and Generation** [[Paper]](https://arxiv.org/abs/2404.14396) ![](https://img.shields.io/badge/Apr-2024-red)
+
 
 
 

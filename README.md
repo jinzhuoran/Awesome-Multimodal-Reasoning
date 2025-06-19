@@ -777,6 +777,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **CompAlign: Improving Compositional Text-to-Image Generation with a Complex Benchmark and Fine-Grained Feedback** [[Paper]](https://arxiv.org/abs/2505.11178) [[Dataset]](https://huggingface.co/datasets/MMMGBench/MMMG) ![](https://img.shields.io/badge/May-2025-red)
 
+- **RIS‑Bench: Benchmarking Next‑Level Intelligent Image Editing Models** [[Paper]](https://arxiv.org/abs/2505.16707) ![](https://img.shields.io/badge/May-2025-red)
+
 + **GPT-ImgEval: A Comprehensive Benchmark for Diagnosing GPT4o in Image Generation** [[Paper]](https://arxiv.org/abs/2504.02782) [[Dataset]](https://github.com/PicoTrex/GPT-ImgEval) ![](https://img.shields.io/badge/May-2025-red)
 
 + **WorldScore: A Unified Evaluation Benchmark for World Generation**  [[Paper]](https://arxiv.org/abs/2504.00983) [[Dataset]](https://github.com/haoyi-duan/WorldScore) ![](https://img.shields.io/badge/Apr-2025-red)

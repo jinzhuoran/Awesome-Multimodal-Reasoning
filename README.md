@@ -781,9 +781,16 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **WorldScore: A Unified Evaluation Benchmark for World Generation**  [[Paper]](https://arxiv.org/abs/2504.00983) [[Dataset]](https://github.com/haoyi-duan/WorldScore) ![](https://img.shields.io/badge/Apr-2025-red)
 
+- **T2I‑CompBench++: An Enhanced and Comprehensive Benchmark for Compositional Text‑to‑Image Generation** [[Paper]](https://arxiv.org/abs/2307.06350) ![](https://img.shields.io/badge/Mar-2025-red)
+
+- **WISE: A World Knowledge-Informed Semantic Evaluation for Text-to-Image Generation** [[Paper]](https://arxiv.org/abs/2503.07265) ![](https://img.shields.io/badge/Mar-2025-red)
+
 + **WorldModelBench: Judging Video Generation Models As World Models** [[Paper]](https://arxiv.org/abs/2502.20694) [[Dataset]](https://worldmodelbench-team.github.io/) ![](https://img.shields.io/badge/Feb-2025-red)
 
+- **Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?** [[Paper]](https://arxiv.org/abs/2406.07546) ![](https://img.shields.io/badge/Jun-2024-red)
+
 + **Can MLLMs Perform Text-to-Image In-Context Learning?** [[Paper]](https://arxiv.org/abs/2402.01293) [[Dataset]](https://github.com/UW-Madison-Lee-Lab/CoBSAT?tab=readme-ov-file) ![](https://img.shields.io/badge/Feb-2024-red)
+
 
  
 ### 🔀 Modal-Interleaved Reasoning

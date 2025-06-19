@@ -225,6 +225,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2506.04207) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
+- **MiMo-VL Technical Report**  [[Paper]](https://arxiv.org/abs/2506.03569) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
 - **SynthRL: Scaling Visual Reasoning with Verifiable Data Synthesis**  [[Paper]](https://arxiv.org/abs/2506.02096) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 - **SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2506.01713) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)

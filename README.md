@@ -161,6 +161,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement** [[Paper]](https://arxiv.org/abs/2504.07934) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
+- **Kimi-VL Technical Report**  [[Paper]](https://arxiv.org/abs/2504.07491) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-LongCoT_Distillation-blue)
+
 - **ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2503.06749) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
@@ -237,7 +239,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Reinforcing Video Reasoning with Focused Thinking**  [[Paper]](https://arxiv.org/abs/2505.24718) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
-- **VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL**  [[Paper]](https://arxiv.org/abs/2505.23977) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Puzzle-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL**  [[Paper]](https://arxiv.org/abs/2505.23977) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Puzzle-  ) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 - **Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models**  [[Paper]](https://arxiv.org/abs/2505.23091) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
@@ -286,6 +288,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**  [[Paper]](https://arxiv.org/abs/2504.07934) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Filtering-blue)
 
 - **VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model**  [[Paper]](https://arxiv.org/abs/2504.07615) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Grounding-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
+- **Kimi-VL Technical Report**  [[Paper]](https://arxiv.org/abs/2504.07491) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
 - **VideoChat-R1: Enhancing Spatio-Temporal Perception via Reinforcement Fine-Tuning**  [[Paper]](https://arxiv.org/abs/2504.06958) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 

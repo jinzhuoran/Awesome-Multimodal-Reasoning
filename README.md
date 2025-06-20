@@ -459,6 +459,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents**  [[Paper]](https://arxiv.org/abs/2311.05437) ![](https://img.shields.io/badge/Nov-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
+- **Visual CoT: Unleashing Chain-of-Thought Reasoning in Multi-Modal Language Models** [\[Paper\]](https://arxiv.org/abs/2403.16999) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Visual_CoT-blue)
+
 - **GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**  [[Paper]](https://arxiv.org/abs/2305.18752) ![](https://img.shields.io/badge/May-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**  [[Paper]](https://arxiv.org/abs/2303.11381) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue)
@@ -470,6 +472,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**  [[Paper]](https://arxiv.org/abs/2303.04671) ![](https://img.shields.io/badge/Mar-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
 
 - **Visual Programming: Compositional visual reasoning without training**  [[Paper]](https://arxiv.org/abs/2211.11559) ![](https://img.shields.io/badge/Nov-2022-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Prompt-blue) 
+
 
 
 #### Reasoning-Intensive Image Generation
@@ -519,7 +522,33 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **SEED‑X: Multimodal Models with Unified Multi‑granularity Comprehension and Generation** [[Paper]](https://arxiv.org/abs/2404.14396) ![](https://img.shields.io/badge/Apr-2024-red)
 
+- **Generating images with multimodal language models** [\[Paper\]](https://arxiv.org/abs/2305.17216) ![](https://img.shields.io/badge/May-2023-red) ![](https://img.shields.io/badge/Task-Image_Generation-brightgreen) ![](https://img.shields.io/badge/Method-Unified_Model-blue)
 
+- **Minigpt-5: Interleaved vision-and-language generation via generative vokens** [\[Paper\]](https://arxiv.org/abs/2310.02239) ![](https://img.shields.io/badge/Oct-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Generative_Voken-blue)
+
+- **Generative multimodal models are in-context learners** [\[Paper\]](https://arxiv.org/abs/2312.13286) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-In_Context_Learning-blue)
+
+- **Show-o: One single transformer to unify multimodal understanding and generation** [\[Paper\]](https://arxiv.org/abs/2408.12528) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Unified_Model-blue)
+
+- **Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model** [\[Paper\]](https://arxiv.org/abs/2408.11039) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-Image_Generation-brightgreen) ![](https://img.shields.io/badge/Method-Token_&_Diffusion-blue)
+
+- **Emu3: Next-Token Prediction is All You Need** [\[Paper\]](https://arxiv.org/abs/2409.18869) ![](https://img.shields.io/badge/Sep-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Next_Token_Prediction-blue)
+
+- **Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation** [\[Paper\]](https://arxiv.org/abs/2410.13848) ![](https://img.shields.io/badge/Oct-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Decoupled_Encoding-blue)
+
+- **Metamorph: Multimodal understanding and generation via instruction tuning** [\[Paper\]](https://arxiv.org/abs/2412.14164) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Instruction_Tuning-blue)
+
+- **LMFusion: Adapting Pretrained Language Models for Multimodal Generation** [\[Paper\]](https://arxiv.org/abs/2412.15188) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Multimodal_Generation-brightgreen) ![](https://img.shields.io/badge/Method-LM_Adaptation-blue)
+
+- **Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling** [\[Paper\]](https://arxiv.org/abs/2501.17811) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Scaling_Laws-blue)
+
+- **Advancing vision-language models in front-end development via data synthesis** [\[Paper\]](https://arxiv.org/abs/2503.01619) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Frontend_Code-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- **BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset** [\[Paper\]](https://arxiv.org/abs/2505.09568) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Unified_Model-blue)
+
+- **Emerging properties in unified multimodal pretraining** [\[Paper\]](https://arxiv.org/abs/2505.14683) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Pretraining-blue)
+
+- **Thinking with Generated Images** [\[Paper\]](https://arxiv.org/abs/2505.22525) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Image_Guided_CoT-blue)
 
 
 ## 🧪 Benchmark

@@ -311,6 +311,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**  [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Perception-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
+- **OpenVLThinker: An Early Exploration to Complex Vision-Language Reasoning via Iterative Self-Improvement**  [[Paper]](https://arxiv.org/abs/2503.17352) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
+
 - **R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**  [[Paper]](https://arxiv.org/abs/2503.12937) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study on Audio Question Answering**  [[Paper]](https://arxiv.org/abs/2503.11197) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Audio-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)

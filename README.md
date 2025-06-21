@@ -322,6 +322,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.16421) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Web-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
+- **STAR-R1: Spatial TrAnsformation Reasoning by Reinforcing Multimodal LLMs** [[Paper]](https://arxiv.org/abs/2505.15804) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
 - **UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.14231) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Grounding-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
 
 - **G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2505.13426) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Game-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)

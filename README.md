@@ -152,10 +152,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models** [[Paper]](https://arxiv.org/abs/2505.20753) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Science_Chart-brightgreen) ![](https://img.shields.io/badge/Method-CoT-blue)
 
-
-- **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning** [[Paper]](http://export.arxiv.org/abs/2505.16421) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Web-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
-
-
 - **Sherlock: Self-Correcting Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Correction-blue)
 
 - **Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains** [[Paper]](https://arxiv.org/abs/2504.20199#:~:text=In%20this%20work%2C%20we%20propose%20Focus-Centric%20Visual%20Chain%2C,VLMs%27perception%2C%20comprehension%2C%20and%20reasoning%20abilities%20in%20multi-image%20scenarios.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)

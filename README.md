@@ -860,6 +860,59 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 🎥 Video Reasoning
 
++ **VideoVista: A Versatile Benchmark for Video Understanding and Reasoning** [[Paper]](https://arxiv.org/abs/2406.11303) [[Dataset]](https://huggingface.co/datasets/Uni-MoE/VideoVista) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos** [[Paper]](https://arxiv.org/abs/2506.04141) [[Dataset]](https://huggingface.co/datasets/JokerJan/MMR-VBench) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos** [[Paper]](https://arxiv.org/abs/2506.10857) [[Dataset]](https://huggingface.co/datasets/OpenGVLab/VRBench) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **SIV-Bench: A Video Benchmark for Social Interaction Understanding and Reasoning** [[Paper]](https://arxiv.org/abs/2506.05425) [[Dataset]](https://huggingface.co/datasets/Fancylalala/SIV-Bench) ![](https://img.shields.io/badge/Jun-2025-red)
+
+
++ **VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos** [[Paper]](https://arxiv.org/abs/2506.05349) [[Dataset]](https://huggingface.co/datasets/MBZUAI/VideoMathQA) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **MORSE-500: A Programmatically Controllable Video Benchmark to Stress-Test Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2506.05523#:~:text=We%20introduce%20MORSE-500%20%28Multimodal%20Reasoning%20Stress-test%20Environment%29%2C%20a,with%20embedded%20questions%20spanning%20six%20complementary%20reasoning%20categories.) [[Dataset]](https://huggingface.co/datasets/video-reasoning/morse-500) ![](https://img.shields.io/badge/Jun-2025-red)
+
++ **Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1** [[Paper]](https://arxiv.org/abs/2503.24376) [[Dataset]](https://huggingface.co/datasets/TencentARC/SEED-Bench-R1) ![](https://img.shields.io/badge/May-2025-red)
+
++ **VideoReasonBench: Can MLLMs Perform Vision-Centric Complex Video Reasoning?** [[Paper]](https://arxiv.org/abs/2505.23359) [[Dataset]](https://huggingface.co/datasets/lyx97/reasoning_videos) ![](https://img.shields.io/badge/May-2025-red)
+
+
++ **MINERVA: Evaluating Complex Video Reasoning** [[Paper]](https://arxiv.org/abs/2505.00681) [[Dataset]](https://github.com/google-deepmind/neptune?tab=readme-ov-file#minerva) ![](https://img.shields.io/badge/May-2025-red)
+
++ **Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?** [[Paper]](https://arxiv.org/abs/2505.21374) [[Dataset]](https://huggingface.co/datasets/TencentARC/Video-Holmes) ![](https://img.shields.io/badge/May-2025-red)
+
+
++ **VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning** [[Paper]](https://arxiv.org/abs/2504.07956) [[Dataset]](https://huggingface.co/datasets/VLM-Reasoning/VCR-Bench) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark** [[Paper]](https://arxiv.org/abs/2504.14693) [[Dataset]](https://huggingface.co/datasets/Enxin/Video-MMLU) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs** [[Paper]](https://arxiv.org/abs/2504.15415) [[Dataset]](https://huggingface.co/datasets/m-a-p/IV-Bench) ![](https://img.shields.io/badge/Apr-2025-red)
+
++ **Video-MMMU: Evaluating Knowledge Acquisition from Multi-Discipline Professional Videos** [[Paper]](https://arxiv.org/abs/2501.13826) [[Dataset]](https://huggingface.co/datasets/lmms-lab/VideoMMMU) ![](https://img.shields.io/badge/Jan-2025-red)
+
++ **MMVU: Measuring Expert-Level Multi-Discipline Video Understanding** [[Paper]](https://arxiv.org/abs/2501.12380#:~:text=We%20introduce%20MMVU%2C%20a%20comprehensive%20expert-level%2C%20multi-discipline,benchmark%20for%20evaluating%20foundation%20models%20in%20video%20understanding.) [[Dataset]](https://huggingface.co/datasets/yale-nlp/MMVU) ![](https://img.shields.io/badge/Jan-2025-red)
+
++ **VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool** [[Paper]](https://arxiv.org/abs/2407.05355) [[Dataset]](https://arxiv.org/abs/2407.05355) ![](https://img.shields.io/badge/Jul-2025-red)
+
++ **Longvideobench: A benchmark for long-context interleaved video-language understanding** [[Paper]](https://arxiv.org/abs/2407.15754) [[Dataset]](https://huggingface.co/datasets/longvideobench/LongVideoBench) ![](https://img.shields.io/badge/Jul-2025-red)
+
+
++ **VCBench: A Controllable Benchmark for Symbolic and Abstract Challenges in Video Cognition** [[Paper]](https://arxiv.org/abs/2411.09105) [[Dataset]](https://arxiv.org/abs/2411.09105) ![](https://img.shields.io/badge/Nov-2024-red)
+
++ **ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos** [[Paper]](https://arxiv.org/abs/2406.19392) [[Dataset]](https://huggingface.co/datasets/ReXTime/ReXTime) ![](https://img.shields.io/badge/Jun-2024-red)
+
+
++ **MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos** [[Paper]](https://arxiv.org/abs/2406.08407) [[Dataset]](https://huggingface.co/datasets/Xuehai/MMWorld) ![](https://img.shields.io/badge/Jun-2024-red)
+
+
++ **Lvbench: An extreme long video understanding benchmark** [[Paper]](https://arxiv.org/abs/2406.08035) [[Dataset]](https://huggingface.co/datasets/THUDM/LVBench) ![](https://img.shields.io/badge/Jun-2024-red)
+
++ **SOK-Bench: A Situated Video Reasoning Benchmark with Aligned Open-World Knowledge** [[Paper]](https://arxiv.org/abs/2405.09713) [[Dataset]](https://bobbywu.com/SOKBench/) ![](https://img.shields.io/badge/May-2024-red)
+
++ **CausalChaos! Dataset for Comprehensive Causal Action Question Answering Over Longer Causal Chains Grounded in Dynamic Visual Scenes** [[Paper]](https://arxiv.org/abs/2404.01299#:~:text=To%20address%20this%20gap%2C%20we%20capitalize%20on%20the,upon%20the%20iconic%20%22Tom%20and%20Jerry%22%20cartoon%20series.) [[Dataset]](https://github.com/LUNAProject22/CausalChaos) ![](https://img.shields.io/badge/Apr-2024-red)
+
+
 ### 🔊 Audio Reasoning
 
 + **MMAR: A Challenging Benchmark for Deep Reasoning in Speech, Audio, Music, and Their Mix** [[Paper]](https://arxiv.org/abs/2505.13032) [[Dataset]](https://huggingface.co/datasets/BoJack/MMAR) ![](https://img.shields.io/badge/May-2025-red)

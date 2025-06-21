@@ -141,71 +141,134 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ### 🎓 Supervised Fine-Tuning
 
-- **Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning** [[Paper]](https://arxiv.org/abs/2506.00318) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **ReasonGen‑R1: CoT for Autoregressive Image Generation models through SFT and RL** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Text_to_Image-brightgreen) ![](https://img.shields.io/badge/Method-Data_synthesis-blue)
 
-- **VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.14231) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
+
+
+- **VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning** [[Paper]](https://arxiv.org/abs/2506.00318) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **Understand, Think, and Answer: Advancing Visual Reasoning with Large Multimodal Models** [[Paper]](https://arxiv.org/abs/2505.20753) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Science_Chart-brightgreen) ![](https://img.shields.io/badge/Method-CoT-blue)
+
+
+- **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning** [[Paper]](http://export.arxiv.org/abs/2505.16421) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Web-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
+
 
 - **Sherlock: Self-Correcting Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Correction-blue)
 
-- **MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning** [[Paper]](https://arxiv.org/abs/2505.10557) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains** [[Paper]](https://arxiv.org/abs/2504.20199#:~:text=In%20this%20work%2C%20we%20propose%20Focus-Centric%20Visual%20Chain%2C,VLMs%27perception%2C%20comprehension%2C%20and%20reasoning%20abilities%20in%20multi-image%20scenarios.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains** [[Paper]](https://arxiv.org/abs/2504.20199) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization** [[Paper]](https://arxiv.org/abs/2504.18397) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue)
+- **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** [[Paper]](https://arxiv.org/abs/2404.14604) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Pre_train-blue)
 
-- **LongPerceptualThoughts: Distilling System-2 Reasoning for System-1 Perception** [[Paper]](https://arxiv.org/abs/2504.15362) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Perception-brightgreen) ![](https://img.shields.io/badge/Method-LongCoT_Distillation-blue)
 
-- **SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models** [[Paper]](https://arxiv.org/abs/2504.11468) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement** [[Paper]](https://arxiv.org/abs/2504.20199#:~:text=In%20this%20work%2C%20we%20propose%20Focus-Centric%20Visual%20Chain%2C,VLMs%27perception%2C%20comprehension%2C%20and%20reasoning%20abilities%20in%20multi-image%20scenarios.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique** [[Paper]](https://arxiv.org/abs/2504.11009) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-MCTS-blue)
 
-- **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement** [[Paper]](https://arxiv.org/abs/2504.07934) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models** [[Paper]](https://arxiv.org/abs/2504.11468#:~:text=This%20work%20revisits%20the%20dominant%20supervised%20fine-tuning%20%28SFT%29,inducing%20%60%60pseudo%20reasoning%20paths%27%27%20imitated%20from%20expert%20models.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math_Science_General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
-- **Kimi-VL Technical Report**  [[Paper]](https://arxiv.org/abs/2504.07491) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-LongCoT_Distillation-blue)
+- **Kimi-VL Technical Report** [[Paper]](https://arxiv.org/abs/2504.07491) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math_Science_General_Video-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
-- **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2503.06749) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization** [[Paper]](https://arxiv.org/abs/2504.18397#:~:text=In%20this%20paper%2C%20we%20introduce%20Unsupervised%20Visual%20CoT,framework%20for%20image-level%20CoT%20reasoning%20via%20preference%20optimization.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Unsupervised_CoT-blue)
 
-- **Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation** [[Paper]](https://arxiv.org/abs/2502.14846) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **Virgo: A Preliminary Exploration on Reproducing o1-like MLLM** [[Paper]](https://arxiv.org/abs/2501.01904#:~:text=To%20address%20this%20issue%2C%20in%20this%20paper%2C%20we,slow-thinking%20system%2C%20Virgo%20%28Visual%20reasoning%20with%20long%20thought%29.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math&Science-brightgreen) ![](https://img.shields.io/badge/Method-Self_Distillation-blue) ![](https://img.shields.io/badge/Method-FT-blue)
 
-- **RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?** [[Paper]](https://arxiv.org/abs/2501.11284) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-LongCoT_Distillation-blue)
 
-- **Virgo: A Preliminary Exploration on Reproducing o1-like MLLM** [[Paper]](https://arxiv.org/abs/2501.01904) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-LongCoT_Distillation-blue)
+- **Perception in Reflection** [[Paper]](https://arxiv.org/abs/2504.07165) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Self_Critique-blue) ![](https://img.shields.io/badge/Method-SFT-blue)
 
-- **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search** [[Paper]](https://arxiv.org/abs/2412.18319) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-MCTS-blue)
 
-- **Diving into Self-Evolving Training for Multimodal Reasoning** [[Paper]](https://arxiv.org/abs/2412.17451) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Evolving-blue)
+- **UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2503.21620) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-UI-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
 
-- **Geo-LLaVA: A Large Multi-Modal Model for Solving Geometry Math Problems with Meta In-Context Learning** [[Paper]](https://arxiv.org/abs/2412.10455#:~:text=Additionally%2C%20we%20propose%20a%20Large%20Multi-modal%20Model%20%28LMM%29,in-context%20learning%20%28ICL%29%20during%20inference%20to%20improve%20performance.) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RAG-blue) ![](https://img.shields.io/badge/Method-In_Context_Learning-blue)
+- **Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks** [[Paper]](https://arxiv.org/abs/2503.21696) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Spatial_Embodied-brightgreen) ![](https://img.shields.io/badge/Method-MCTS-blue)
 
-- **Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2411.14432) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Multi_Agent-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
+- **Audio-Reasoner: Improving Reasoning Capability in Large Audio Language Models** [[Paper]](https://arxiv.org/abs/2503.02318) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Audio-brightgreen) ![](https://img.shields.io/badge/Method-CoT-blue) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization** [[Paper]](https://arxiv.org/abs/2411.10442) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue)
+- **AURELIA: Test-time Reasoning Distillation in Audio-Visual LLMs** [[Paper]](https://arxiv.org/abs/2503.23219) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Audio-brightgreen) ![](https://img.shields.io/badge/Method-Distillation-blue)
+
+- **Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
+
+- **ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video_Spatial-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+- **Superficial Self-Improved Reasoners Benefit from Model Merging** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Model_Merging-blue)
+
+- **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2503.21620) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math_Science-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
+
+- **video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model** [[Paper]](https://arxiv.org/abs/2502.11775) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Video_Audio-brightgreen) ![](https://img.shields.io/badge/Method-pDPO-blue) ![](https://img.shields.io/badge/Method-Audio_Visual-blue)
+
+
+- **MMC: Iterative Refinement of VLM Reasoning via MCTS-based Multimodal Critique** [[Paper]](https://arxiv.org/abs/2504.11009) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Chart-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-MCTS-blue)
+
+- **URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics** [[Paper]](https://arxiv.org/abs/2501.04686) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Self_Distill-blue)
+
+- **GThinker: Towards General Multimodal Reasoning via Cue-Guided Rethinking** [[Paper]](https://arxiv.org/abs/2506.01078) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Science_General_Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+
+
+- **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model** [[Paper]](https://arxiv.org/abs/2501.07246) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Audio-brightgreen) ![](https://img.shields.io/badge/Method-CoT-blue)
+
+
+- **LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs** [[Paper]](https://arxiv.org/abs/2501.06186) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Science_Chart-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+
+- **RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?** [[Paper]](https://arxiv.org/abs/2501.11284#:~:text=In%20this%20work%2C%20we%20explore%20the%20untapped%20potential,pioneering%20the%20development%20of%20a%20slow-thinking%20model%2C%20RedStar.) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-LongCoT-blue)
+
+- **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search** [[Paper]](https://arxiv.org/abs/2412.18319) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Collective_MCTS-blue)
+
+- **Geo-LLaVA: A Large Multi-Modal Model for Solving Geometry Math Problems with Meta In-Context Learning** [[Paper]](https://arxiv.org/abs/2412.10455#:~:text=Additionally%2C%20we%20propose%20a%20Large%20Multi-modal%20Model%20%28LMM%29,in-context%20learning%20%28ICL%29%20during%20inference%20to%20improve%20performance.) ![](https://img.shields.io/badge/Dec-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-In_Context_Learning-blue)
+
+- **Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization** [[Paper]](https://arxiv.org/abs/2411.10442#:~:text=Specifically%2C%20%281%29%20on%20the%20data%20side%2C%20we%20design,Preference%20Optimization%20%28MPO%29%2C%20which%20boosts%20multimodal%20CoT%20performance.) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Science_General-brightgreen) ![](https://img.shields.io/badge/Method-Preference_Optimization-blue)
+
+- **Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models** [[Paper]](Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
+) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Science_General_Math_Chart-brightgreen) ![](https://img.shields.io/badge/Method-Modular_Reasoning-blue)
+
 
 - **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step** [[Paper]](https://arxiv.org/abs/2411.10440) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Vision-Language Models Can Self-Improve Reasoning via Reflection** [[Paper]](https://arxiv.org/abs/2411.00855) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Reflection-blue)
+- **AtomThink: A Slow Thinking Framework for Multimodal Mathematical Reasoning** [[Paper]](https://arxiv.org/abs/2411.11930) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-PRM-blue)
+
+- **TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives** [[Paper]](https://arxiv.org/abs/2411.02545) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-Contrastive_Learning-blue)
+
+- **Vision-Language Models Can Self-Improve Reasoning via Reflection** [[Paper]](https://arxiv.org/abs/2411.00855) ![](https://img.shields.io/badge/Oct-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Self_Reflection-blue)
 
 - **Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Spatial Reasoning** [[Paper]](https://arxiv.org/abs/2410.16162) ![](https://img.shields.io/badge/Oct-2024-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
+
 - **Improve Vision Language Model Chain-of-thought Reasoning** [[Paper]](https://arxiv.org/abs/2410.16198) ![](https://img.shields.io/badge/Oct-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
 
-- **MAVIS: Mathematical Visual Instruction Tuning with an Automatic Data Engine** [[Paper]](https://arxiv.org/abs/2407.08739) ![](https://img.shields.io/badge/Jul-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation** [[Paper]](https://arxiv.org/abs/2408.15881#:~:text=We%20introduce%20LLaVA-MoD%2C%20a%20novel%20framework%20designed%20to,%28s-MLLM%29%20by%20distilling%20knowledge%20from%20large-scale%20MLLM%20%28l-MLLM%29.) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Distillation-blue) ![](https://img.shields.io/badge/Method-MOE-blue)
+
+
+
+- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2406.17294) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Bootstrapping-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
+
 
 - **From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis** [[Paper]](https://arxiv.org/abs/2406.19934) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2406.17294) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
-- **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** [[Paper]](https://arxiv.org/abs/2404.14604) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+- **MAVIS: Mathematical Visual Instruction Tuning** [[Paper]](https://arxiv.org/abs/2407.08739) ![](https://img.shields.io/badge/Jul-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Contrastive_Learning-blue)
 
-- **KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**  [[Paper]](https://arxiv.org/abs/2401.12863) ![](https://img.shields.io/badge/Jan-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-RAG-blue) 
+- **Video-of thought: Step-by-step video reasoning from perception to cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
 
-- **Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
+- **Mantis: Interleaved Multi-Image Instruction Tuning** [[Paper]](https://arxiv.org/abs/2405.01483) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Multi_Image-brightgreen) ![](https://img.shields.io/badge/Method-Instruction_Tuning-blue)
 
-- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2309.04461) ![](https://img.shields.io/badge/Sep-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+- **Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning** [[Paper]](https://arxiv.org/abs/2403.16999) ![](https://img.shields.io/badge/Mar-2024-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Dataset_Contribution-blue)
 
-- **Multimodal Chain-of-Thought Reasoning in Language Models** [[Paper]](https://arxiv.org/abs/2302.00923) ![](https://img.shields.io/badge/Feb-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+- **V-STaR: Training Verifiers for Self-Taught Reasoners** [[Paper]](https://arxiv.org/abs/2402.06457) ![](https://img.shields.io/badge/Feb-2024-red) ![](https://img.shields.io/badge/Task-Math_Code-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue) ![](https://img.shields.io/badge/Method-Test_Time_Verify-blue)
+
+
+- **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model** [[Paper]](https://arxiv.org/abs/2312.11370) ![](https://img.shields.io/badge/Dec-2023-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Self_Distill-blue)
+
+
+- **Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models** [[Paper]](https://arxiv.org/abs/2309.04461) ![](https://img.shields.io/badge/Sep-2023-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Chain_of_Thought-blue)
+
+
+- **Multimodal Chain-of-Thought Reasoning in Language Models** [[Paper]](https://arxiv.org/abs/2302.00923) ![](https://img.shields.io/badge/Feb-2023-red) ![](https://img.shields.io/badge/Task-Science-brightgreen) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
+
+
+- **STaR: Bootstrapping Reasoning With Reasoning** [[Paper]](https://arxiv.org/abs/2203.14465) ![](https://img.shields.io/badge/Mar-2022-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Self_Improvement-blue) ![](https://img.shields.io/badge/Method-Bootstrapping-blue)
+
+
 
 ### 🤖 Reinforcement Fine-Tuning
 

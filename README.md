@@ -342,6 +342,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning**  [[Paper]](https://arxiv.org/abs/2504.16656) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
+- **SARI: Structured Audio Reasoning via Curriculum-Guided Reinforcement Learning**  [[Paper]](https://arxiv.org/abs/2504.15900) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Audio-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)
+
 - **NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**  [[Paper]](https://arxiv.org/abs/2504.13055) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-RL_Algorithm-blue)
 
 - **TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning**  [[Paper]](https://arxiv.org/abs/2504.09641) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Training_Strategy-blue)

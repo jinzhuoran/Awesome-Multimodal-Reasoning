@@ -406,6 +406,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **PixelThink: Towards Efficient Chain-of-Pixel Reasoning** [[Paper]](https://arxiv.org/abs/2505.23727) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Pixelwise_CoT-blue)
 
+- **Visual Abstract Thinking Empowers Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2505.20164) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Visual_Abstract-blue)
+
 - **VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank** [[Paper]](https://arxiv.org/abs/2505.14460) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Image_Quality-brightgreen) ![](https://img.shields.io/badge/Method-RL2R-blue)
 
 
@@ -437,8 +439,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen)![](https://img.shields.io/badge/Method-DPO-blue)  ![](https://img.shields.io/badge/Method-Visual_Token-blue)
 
 - **MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning**  [[Paper]](https://arxiv.org/abs/2506.05331) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) ![](https://img.shields.io/badge/Method-Visual_Token-blue) 
-
-- **Visual Abstract Thinking Empowers Multimodal Reasoning**  [[Paper]](https://arxiv.org/abs/2505.20164) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Visual_Abstract-blue)
 
 - **SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards**  [[Paper]](https://arxiv.org/abs/2505.19094) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-VQA-brightgreen) ![](https://img.shields.io/badge/Method-Visual_Grounding-blue)
 

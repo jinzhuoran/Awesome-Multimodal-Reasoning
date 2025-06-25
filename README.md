@@ -160,7 +160,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training** [[Paper]](https://arxiv.org/abs/2404.14604) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue) ![](https://img.shields.io/badge/Method-Pre_train-blue)
 
 
-- **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement** [[Paper]](https://arxiv.org/abs/2504.20199#:~:text=In%20this%20work%2C%20we%20propose%20Focus-Centric%20Visual%20Chain%2C,VLMs%27perception%2C%20comprehension%2C%20and%20reasoning%20abilities%20in%20multi-image%20scenarios.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
+- **SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement** [[Paper]](https://arxiv.org/abs/2504.07934) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 
 - **SFT or RL? An Early Investigation into Training R1-Like Reasoning Large Vision-Language Models** [[Paper]](https://arxiv.org/abs/2504.11468#:~:text=This%20work%20revisits%20the%20dominant%20supervised%20fine-tuning%20%28SFT%29,inducing%20%60%60pseudo%20reasoning%20paths%27%27%20imitated%20from%20expert%20models.) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-Math_Science_General-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)

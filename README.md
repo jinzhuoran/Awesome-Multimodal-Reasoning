@@ -186,7 +186,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
 
-- **ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video_Spatial-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+- **ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos** [[Paper]](https://arxiv.org/abs/2503.12542) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Video_Spatial-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **Superficial Self-Improved Reasoners Benefit from Model Merging** [[Paper]](https://arxiv.org/abs/2503.20752) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Model_Merging-blue)
 

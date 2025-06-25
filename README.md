@@ -431,8 +431,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.17022) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Generation-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
 
-- **OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning** [[Paper]](https://arxiv.org/abs/2505.17163) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-OCR_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Evaluation-brown)
-
 - **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) ![](https://img.shields.io/badge/Method-Visual_Drawing-blue) 
 
 - **Multi-Step Visual Reasoning with Visual Tokens Scaling and Verification**  [[Paper]](https://arxiv.org/abs/2506.07235) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen)![](https://img.shields.io/badge/Method-DPO-blue)  ![](https://img.shields.io/badge/Method-Visual_Token-blue)
@@ -980,6 +978,8 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 + **m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks**  [[Paper]](https://arxiv.org/abs/2403.11085) [[Dataset]](https://github.com/RAIVNLab/mnms) ![](https://img.shields.io/badge/Mar-2024-red)
 
 + **A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision-Language Models**  [[Paper]](https://arxiv.org/abs/2402.18409) [[Dataset]](https://github.com/X-LANCE/CogBench) ![](https://img.shields.io/badge/Feb-2024-red)
+
++ **OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning** [[Paper]](https://arxiv.org/abs/2505.17163) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-OCR_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Evaluation-brown)
 
 ## 🗂️ Survey
 

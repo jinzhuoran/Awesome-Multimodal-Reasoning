@@ -146,7 +146,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.14231) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
 
 
-- **VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning** [[Paper]](https://arxiv.org/abs/2505.22651) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
+- **VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning** [[Paper]](https://arxiv.org/abs/2505.04192) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 
 - **Chain-of-Frames: Advancing Video Understanding in Multimodal LLMs via Frame-Aware Reasoning** [[Paper]](https://arxiv.org/abs/2506.00318) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-SFT-blue)
 

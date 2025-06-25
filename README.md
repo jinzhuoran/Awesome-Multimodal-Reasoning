@@ -215,8 +215,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization** [[Paper]](https://arxiv.org/abs/2411.10442#:~:text=Specifically%2C%20%281%29%20on%20the%20data%20side%2C%20we%20design,Preference%20Optimization%20%28MPO%29%2C%20which%20boosts%20multimodal%20CoT%20performance.) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Science_General-brightgreen) ![](https://img.shields.io/badge/Method-Preference_Optimization-blue)
 
-- **Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models** [[Paper]](Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models
-) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Science_General_Math_Chart-brightgreen) ![](https://img.shields.io/badge/Method-Modular_Reasoning-blue)
+- **Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2411.14432) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-Science_General_Math_Chart-brightgreen) ![](https://img.shields.io/badge/Method-Modular_Reasoning-blue)
 
 
 - **LLaVA-CoT: Let Vision Language Models Reason Step-by-Step** [[Paper]](https://arxiv.org/abs/2411.10440) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)

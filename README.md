@@ -398,6 +398,16 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**  [[Paper]](https://arxiv.org/abs/2501.04686) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
+- **SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.22596) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Segmentation-brightgreen) ![](https://img.shields.io/badge/Method-SAM-blue) ![](https://img.shields.io/badge/Method-RL-blue)
+
+- **VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.12081) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
+
+- **ProgRM: Build Better GUI Agents with Progress Rewards** [[Paper]](https://arxiv.org/abs/2505.18121) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GUI_Agent-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
+
+- **PixelThink: Towards Efficient Chain-of-Pixel Reasoning** [[Paper]](https://arxiv.org/abs/2505.23727) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Pixelwise_CoT-blue)
+
+- **VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank** [[Paper]](https://arxiv.org/abs/2505.14460) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Image_Quality-brightgreen) ![](https://img.shields.io/badge/Method-RL2R-blue)
+
 
 
 ### 🔀 Think with Interleaved-Modal
@@ -410,27 +420,17 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.20272) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
 
-- **SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.22596) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Segmentation-brightgreen) ![](https://img.shields.io/badge/Method-SAM-blue) ![](https://img.shields.io/badge/Method-RL-blue)
-
-- **VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.12081) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
-
 - **Visual Agentic Reinforcement Fine-Tuning** [[Paper]](https://arxiv.org/abs/2505.14246) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Agent_Finetune-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
 
 - **Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO** [[Paper]](https://arxiv.org/abs/2505.17017) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Image_Generation-brightgreen) ![](https://img.shields.io/badge/Method-DPO-blue) ![](https://img.shields.io/badge/Method-GRPO-blue)
-
-- **ProgRM: Build Better GUI Agents with Progress Rewards** [[Paper]](https://arxiv.org/abs/2505.18121) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GUI_Agent-brightgreen) ![](https://img.shields.io/badge/Method-Reward_Design-blue)
 
 - **Point-RFT: Improving Multimodal Reasoning with Visually Grounded Reinforcement Finetuning** [[Paper]](https://arxiv.org/abs/2505.19702) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Multimodal_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Pointing-blue) ![](https://img.shields.io/badge/Method-RFT-blue)
 
 - **Grounded Reinforcement Learning for Visual Reasoning** [[Paper]](https://arxiv.org/abs/2505.23678) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
 
-- **PixelThink: Towards Efficient Chain-of-Pixel Reasoning** [[Paper]](https://arxiv.org/abs/2505.23727) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Pixelwise_CoT-blue)
-
 - **GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.17022) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Visual_Generation-brightgreen) ![](https://img.shields.io/badge/Method-RL-blue)
 
 - **OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning** [[Paper]](https://arxiv.org/abs/2505.17163) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-OCR_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Evaluation-brown)
-
-- **VisualQuality-R1: Reasoning-Induced Image Quality Assessment via Reinforcement Learning to Rank** [[Paper]](https://arxiv.org/abs/2505.14460) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-Image_Quality-brightgreen) ![](https://img.shields.io/badge/Method-RL2R-blue)
 
 - **Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**  [[Paper]](https://arxiv.org/abs/2506.09965) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-Spatial-brightgreen) ![](https://img.shields.io/badge/Method-SFT_&_RL-blue) ![](https://img.shields.io/badge/Method-Visual_Drawing-blue) 
 

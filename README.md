@@ -190,7 +190,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 - **Superficial Self-Improved Reasoners Benefit from Model Merging** [[Paper]](https://arxiv.org/abs/2503.02103) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Model_Merging-blue)
 
-- **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2503.21620) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math_Science-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
+- **Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2503.06749) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-Math_Science-brightgreen) ![](https://img.shields.io/badge/Method-RFT-blue)
 
 - **video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model** [[Paper]](https://arxiv.org/abs/2502.11775) ![](https://img.shields.io/badge/Feb-2025-red) ![](https://img.shields.io/badge/Task-Video_Audio-brightgreen) ![](https://img.shields.io/badge/Method-pDPO-blue) ![](https://img.shields.io/badge/Method-Audio_Visual-blue)
 

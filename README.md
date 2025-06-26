@@ -859,6 +859,9 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **VideoVista: A Versatile Benchmark for Video Understanding and Reasoning** [[Paper]](https://arxiv.org/abs/2406.11303) [[Dataset]](https://huggingface.co/datasets/Uni-MoE/VideoVista) ![](https://img.shields.io/badge/Jun-2025-red)
 
++ **IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments** [[Paper]](https://arxiv.org/abs/2506.09849) [[Dataset]](https://huggingface.co/datasets/facebook/IntPhys2) ![](https://img.shields.io/badge/Jun-2025-red)
+
+
 + **MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos** [[Paper]](https://arxiv.org/abs/2506.04141) [[Dataset]](https://huggingface.co/datasets/JokerJan/MMR-VBench) ![](https://img.shields.io/badge/Jun-2025-red)
 
 + **VRBench: A Benchmark for Multi-Step Reasoning in Long Narrative Videos** [[Paper]](https://arxiv.org/abs/2506.10857) [[Dataset]](https://huggingface.co/datasets/OpenGVLab/VRBench) ![](https://img.shields.io/badge/Jun-2025-red)

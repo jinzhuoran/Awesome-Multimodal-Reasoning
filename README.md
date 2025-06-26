@@ -861,6 +861,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **IntPhys 2: Benchmarking Intuitive Physics Understanding In Complex Synthetic Environments** [[Paper]](https://arxiv.org/abs/2506.09849) [[Dataset]](https://huggingface.co/datasets/facebook/IntPhys2) ![](https://img.shields.io/badge/Jun-2025-red)
 
++ **CausalVQA: A Physically Grounded Causal Reasoning Benchmark for Video Models** [[Paper]](https://arxiv.org/abs/2506.09943) [[Dataset]](https://github.com/facebookresearch/CausalVQA?tab=readme-ov-file) ![](https://img.shields.io/badge/Jun-2025-red)
 
 + **MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos** [[Paper]](https://arxiv.org/abs/2506.04141) [[Dataset]](https://huggingface.co/datasets/JokerJan/MMR-VBench) ![](https://img.shields.io/badge/Jun-2025-red)
 

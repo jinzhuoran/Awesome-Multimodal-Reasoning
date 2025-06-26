@@ -989,6 +989,36 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards** [[Paper]](https://arxiv.org/abs/2506.20332) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
 
++ **AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning** [[Paper]](https://arxiv.org/abs/2506.01391) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation** [[Paper]](https://arxiv.org/abs/2506.04614) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **Group-in-Group Policy Optimization for LLM Agent Training** [[Paper]](https://arxiv.org/abs/2505.10978) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay** [[Paper]](https://arxiv.org/abs/2505.16282) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.16421) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **GUI-G1: Understanding R1-Zero-Like Training for Visual Grounding in GUI Agents** [[Paper]](https://arxiv.org/abs/2505.15810) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners** [[Paper]](https://arxiv.org/abs/2504.14239) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents** [[Paper]](https://arxiv.org/abs/2504.10458) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2503.21620) ![](https://img.shields.io/badge/Mar-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **UI-TARS: Pioneering Automated GUI Interaction with Native Agents** [[Paper]](https://arxiv.org/abs/2501.12326) ![](https://img.shields.io/badge/Jan-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
+
++ **Play to Generalize: Learning to Reason Through Game Play** [[Paper]](https://arxiv.org/abs/2506.08011) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-GAME-brightgreen)
+
++ **Visual Planning: Let's Think Only with Images** [[Paper]](https://arxiv.org/abs/2505.11409) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GAME-brightgreen)
+
++ **G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2505.13426) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-GAME-brightgreen)
+
++ **RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2504.20073) ![](https://img.shields.io/badge/Apr-2025-red) ![](https://img.shields.io/badge/Task-GAME-brightgreen)
+
++ **Natural Language Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2411.14251) ![](https://img.shields.io/badge/Nov-2024-red) ![](https://img.shields.io/badge/Task-GAME-brightgreen)
+
 ## 🗂️ Survey
 
 - **Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2505.18536) ![](https://img.shields.io/badge/May-2025-red)

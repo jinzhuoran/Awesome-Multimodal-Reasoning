@@ -987,7 +987,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 ## Application
 
-+ **Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards** [[Paper]](https://arxiv.org/abs/2506.20332) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-GUI)
++ **Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards** [[Paper]](https://arxiv.org/abs/2506.20332) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-GUI-brightgreen)
 
 ## 🗂️ Survey
 

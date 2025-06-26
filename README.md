@@ -985,6 +985,10 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **OCR-Reasoning Benchmark: Unveiling the True Capabilities of MLLMs in Complex Text-Rich Image Reasoning** [[Paper]](https://arxiv.org/abs/2505.17163) ![](https://img.shields.io/badge/May-2025-red) ![](https://img.shields.io/badge/Task-OCR_Reasoning-brightgreen) ![](https://img.shields.io/badge/Method-Evaluation-brown)
 
+## Application
+
++ **Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based Mobile Agent via Task-Level Rewards** [[Paper]](https://arxiv.org/abs/2506.20332) ![](https://img.shields.io/badge/Jun-2025-red) ![](https://img.shields.io/badge/Task-GUI)
+
 ## 🗂️ Survey
 
 - **Reinforcement Fine-Tuning Powers Reasoning Capability of Multimodal Large Language Models**  [[Paper]](https://arxiv.org/abs/2505.18536) ![](https://img.shields.io/badge/May-2025-red)

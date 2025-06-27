@@ -894,12 +894,14 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 
 + **MMVU: Measuring Expert-Level Multi-Discipline Video Understanding** [[Paper]](https://arxiv.org/abs/2501.12380#:~:text=We%20introduce%20MMVU%2C%20a%20comprehensive%20expert-level%2C%20multi-discipline,benchmark%20for%20evaluating%20foundation%20models%20in%20video%20understanding.) [[Dataset]](https://huggingface.co/datasets/yale-nlp/MMVU) ![](https://img.shields.io/badge/Jan-2025-red)
 
-+ **VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool** [[Paper]](https://arxiv.org/abs/2407.05355) [[Dataset]](https://arxiv.org/abs/2407.05355) ![](https://img.shields.io/badge/Jul-2025-red)
-
-+ **Longvideobench: A benchmark for long-context interleaved video-language understanding** [[Paper]](https://arxiv.org/abs/2407.15754) [[Dataset]](https://huggingface.co/datasets/longvideobench/LongVideoBench) ![](https://img.shields.io/badge/Jul-2025-red)
-
 
 + **VCBench: A Controllable Benchmark for Symbolic and Abstract Challenges in Video Cognition** [[Paper]](https://arxiv.org/abs/2411.09105) [[Dataset]](https://arxiv.org/abs/2411.09105) ![](https://img.shields.io/badge/Nov-2024-red)
+
++ **VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool** [[Paper]](https://arxiv.org/abs/2407.05355) [[Dataset]](https://arxiv.org/abs/2407.05355) ![](https://img.shields.io/badge/Jul-2024-red)
+
++ **Longvideobench: A benchmark for long-context interleaved video-language understanding** [[Paper]](https://arxiv.org/abs/2407.15754) [[Dataset]](https://huggingface.co/datasets/longvideobench/LongVideoBench) ![](https://img.shields.io/badge/Jul-2024-red)
+
+
 
 + **ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos** [[Paper]](https://arxiv.org/abs/2406.19392) [[Dataset]](https://huggingface.co/datasets/ReXTime/ReXTime) ![](https://img.shields.io/badge/Jun-2024-red)
 

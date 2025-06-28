@@ -234,6 +234,7 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation** [[Paper]](https://arxiv.org/abs/2408.15881#:~:text=We%20introduce%20LLaVA-MoD%2C%20a%20novel%20framework%20designed%20to,%28s-MLLM%29%20by%20distilling%20knowledge%20from%20large-scale%20MLLM%20%28l-MLLM%29.) ![](https://img.shields.io/badge/Aug-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Distillation-blue) ![](https://img.shields.io/badge/Method-MOE-blue)
 
 
+- **MAVIS: Mathematical Visual Instruction Tuning** [[Paper]](https://arxiv.org/abs/2407.08739) ![](https://img.shields.io/badge/Jul-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Contrastive_Learning-blue)
 
 - **Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models** [[Paper]](https://arxiv.org/abs/2406.17294) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Bootstrapping-blue) ![](https://img.shields.io/badge/Method-DPO-blue)
 
@@ -241,7 +242,6 @@ Context Sample Scaling and Self-reward Alignment** [[Paper]](https://arxiv.org/a
 - **From the Least to the Most: Building a Plug-and-Play Visual Reasoner via Data Synthesis** [[Paper]](https://arxiv.org/abs/2406.19934) ![](https://img.shields.io/badge/Jun-2024-red) ![](https://img.shields.io/badge/Task-General-brightgreen) ![](https://img.shields.io/badge/Method-Data_Synthesis-blue)
 
 
-- **MAVIS: Mathematical Visual Instruction Tuning** [[Paper]](https://arxiv.org/abs/2407.08739) ![](https://img.shields.io/badge/Jul-2024-red) ![](https://img.shields.io/badge/Task-Math-brightgreen) ![](https://img.shields.io/badge/Method-Contrastive_Learning-blue)
 
 - **Video-of thought: Step-by-step video reasoning from perception to cognition** [[Paper]](https://arxiv.org/abs/2501.03230) ![](https://img.shields.io/badge/May-2024-red) ![](https://img.shields.io/badge/Task-Video-brightgreen) ![](https://img.shields.io/badge/Method-Video_of_Thought-blue)
 
